@@ -1,0 +1,5830 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+      <name>Dados dos Municipios de SP</name>
+          <open>1</open>
+          <description>Dados de salario medio, nascimentos e matriculas escolares do IBGE para municipios de SP</description>
+          <Folder>
+                <name>Municipios</name>
+
+	<Placemark>
+		<name>elias fausto</name>
+		<description>
+			salario: 3.3 casamentos: 143 matriculas: 3517
+		</description>
+		<Point>
+			<coordinates>-47.370195,-23.076161</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>vista alegre do alto</name>
+		<description>
+			salario: 3.0 casamentos: 66 matriculas: 1224
+		</description>
+		<Point>
+			<coordinates>-48.654750,-21.176780</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>monte alegre do sul</name>
+		<description>
+			salario: 2.1 casamentos: 56 matriculas: 1291
+		</description>
+		<Point>
+			<coordinates>-46.670443,-22.707185</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>barra do chapéu</name>
+		<description>
+			salario: 1.8 casamentos: 42 matriculas: 1363
+		</description>
+		<Point>
+			<coordinates>-49.097835,-24.442155</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>bauru</name>
+		<description>
+			salario: 3.1 casamentos: 2810 matriculas: 66737
+		</description>
+		<Point>
+			<coordinates>-49.112510,-22.238957</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>santa bárbara d`oeste</name>
+		<description>
+			salario: 2.8 casamentos: 1337 matriculas: 31674
+		</description>
+		<Point>
+			<coordinates>0.000000,0.000000</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>fernando prestes</name>
+		<description>
+			salario: 2.1 casamentos: 42 matriculas: 969
+		</description>
+		<Point>
+			<coordinates>-48.686839,-21.321334</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>borá</name>
+		<description>
+			salario: 2.6 casamentos: 10 matriculas: 190
+		</description>
+		<Point>
+			<coordinates>-50.505849,-22.235878</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>suzano</name>
+		<description>
+			salario: 3.3 casamentos: 1705 matriculas: 69237
+		</description>
+		<Point>
+			<coordinates>-46.319011,-23.614750</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>laranjal paulista</name>
+		<description>
+			salario: 2.1 casamentos: 172 matriculas: 5144
+		</description>
+		<Point>
+			<coordinates>-47.849411,-23.018307</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>queiroz</name>
+		<description>
+			salario: 2.9 casamentos: 24 matriculas: 685
+		</description>
+		<Point>
+			<coordinates>-50.233769,-21.799540</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ipuã</name>
+		<description>
+			salario: 2.5 casamentos: 54 matriculas: 3108
+		</description>
+		<Point>
+			<coordinates>-48.063064,-20.410687</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>capela do alto</name>
+		<description>
+			salario: 2.0 casamentos: 104 matriculas: 4134
+		</description>
+		<Point>
+			<coordinates>-47.728939,-23.473417</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>santo antônio da alegria</name>
+		<description>
+			salario: 1.6 casamentos: 38 matriculas: 1302
+		</description>
+		<Point>
+			<coordinates>-47.210771,-21.083037</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>nova canaã paulista</name>
+		<description>
+			salario: 2.6 casamentos: 8 matriculas: 323
+		</description>
+		<Point>
+			<coordinates>-50.910116,-20.369100</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>sorocaba</name>
+		<description>
+			salario: 3.6 casamentos: 5180 matriculas: 127235
+		</description>
+		<Point>
+			<coordinates>-47.436791,-23.469867</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ouro verde</name>
+		<description>
+			salario: 2.4 casamentos: 75 matriculas: 1614
+		</description>
+		<Point>
+			<coordinates>-51.744872,-21.496393</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>araras</name>
+		<description>
+			salario: 3.0 casamentos: 869 matriculas: 22598
+		</description>
+		<Point>
+			<coordinates>-47.329442,-22.335417</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>caieiras</name>
+		<description>
+			salario: 3.5 casamentos: 445 matriculas: 20307
+		</description>
+		<Point>
+			<coordinates>-46.739307,-23.376842</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>cajamar</name>
+		<description>
+			salario: 4.0 casamentos: 566 matriculas: 15841
+		</description>
+		<Point>
+			<coordinates>-46.880276,-23.354233</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>nova aliança</name>
+		<description>
+			salario: 2.5 casamentos: 27 matriculas: 1092
+		</description>
+		<Point>
+			<coordinates>-49.532210,-21.052753</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>águas de lindóia</name>
+		<description>
+			salario: 2.0 casamentos: 134 matriculas: 3322
+		</description>
+		<Point>
+			<coordinates>-46.604723,-22.475847</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>bom sucesso de itararé</name>
+		<description>
+			salario: 2.1 casamentos: 13 matriculas: 1154
+		</description>
+		<Point>
+			<coordinates>-49.164564,-24.325170</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>irapuã</name>
+		<description>
+			salario: 1.9 casamentos: 45 matriculas: 1376
+		</description>
+		<Point>
+			<coordinates>-49.401043,-21.274492</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>são lourenço da serra</name>
+		<description>
+			salario: 1.8 casamentos: 95 matriculas: 3137
+		</description>
+		<Point>
+			<coordinates>-46.938617,-23.856477</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>emilianópolis</name>
+		<description>
+			salario: 2.0 casamentos: 20 matriculas: 495
+		</description>
+		<Point>
+			<coordinates>-51.479970,-21.789561</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>sarutaiá</name>
+		<description>
+			salario: 2.0 casamentos: 20 matriculas: 776
+		</description>
+		<Point>
+			<coordinates>-49.484437,-23.259054</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>jaci</name>
+		<description>
+			salario: 2.2 casamentos: 34 matriculas: 1154
+		</description>
+		<Point>
+			<coordinates>-49.578412,-20.942250</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>cardoso</name>
+		<description>
+			salario: 2.4 casamentos: 67 matriculas: 2134
+		</description>
+		<Point>
+			<coordinates>-49.957072,-20.067414</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>areiópolis</name>
+		<description>
+			salario: 2.2 casamentos: 67 matriculas: 2541
+		</description>
+		<Point>
+			<coordinates>-48.649863,-22.615608</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>avaré</name>
+		<description>
+			salario: 2.2 casamentos: 460 matriculas: 16954
+		</description>
+		<Point>
+			<coordinates>-48.907243,-23.063634</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>monte mor</name>
+		<description>
+			salario: 3.8 casamentos: 349 matriculas: 12748
+		</description>
+		<Point>
+			<coordinates>-47.303990,-22.952064</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>alambari</name>
+		<description>
+			salario: 1.8 casamentos: 36 matriculas: 1146
+		</description>
+		<Point>
+			<coordinates>-47.873278,-23.550470</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>nazaré paulista</name>
+		<description>
+			salario: 2.8 casamentos: 82 matriculas: 3381
+		</description>
+		<Point>
+			<coordinates>-46.364901,-23.205032</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>taguaí</name>
+		<description>
+			salario: 1.4 casamentos: 60 matriculas: 2229
+		</description>
+		<Point>
+			<coordinates>-49.399907,-23.468195</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>cabrália paulista</name>
+		<description>
+			salario: 2.1 casamentos: 26 matriculas: 1083
+		</description>
+		<Point>
+			<coordinates>-49.384908,-22.482495</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>guaimbê</name>
+		<description>
+			salario: 2.2 casamentos: 78 matriculas: 1250
+		</description>
+		<Point>
+			<coordinates>-49.868313,-21.865323</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>américo de campos</name>
+		<description>
+			salario: 2.0 casamentos: 59 matriculas: 1108
+		</description>
+		<Point>
+			<coordinates>-49.756393,-20.289815</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>bertioga</name>
+		<description>
+			salario: 2.9 casamentos: 337 matriculas: 13218
+		</description>
+		<Point>
+			<coordinates>-46.018343,-23.766209</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>santa isabel</name>
+		<description>
+			salario: 2.6 casamentos: 355 matriculas: 11624
+		</description>
+		<Point>
+			<coordinates>-46.232406,-23.295598</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>catanduva</name>
+		<description>
+			salario: 2.7 casamentos: 853 matriculas: 20100
+		</description>
+		<Point>
+			<coordinates>-48.954050,-21.130323</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>são josé dos campos</name>
+		<description>
+			salario: 4.5 casamentos: 4649 matriculas: 132718
+		</description>
+		<Point>
+			<coordinates>-45.914635,-23.061488</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>embu das artes</name>
+		<description>
+			salario: 2.9 casamentos: 1223 matriculas: 57226
+		</description>
+		<Point>
+			<coordinates>0.000000,0.000000</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>cruzeiro</name>
+		<description>
+			salario: 3.8 casamentos: 546 matriculas: 16315
+		</description>
+		<Point>
+			<coordinates>-45.013416,-22.561728</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>andradina</name>
+		<description>
+			salario: 2.5 casamentos: 329 matriculas: 9976
+		</description>
+		<Point>
+			<coordinates>-51.307902,-20.865883</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>pilar do sul</name>
+		<description>
+			salario: 2.0 casamentos: 215 matriculas: 6042
+		</description>
+		<Point>
+			<coordinates>-47.723495,-23.859378</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>mombuca</name>
+		<description>
+			salario: 2.4 casamentos: 37 matriculas: 794
+		</description>
+		<Point>
+			<coordinates>-47.604165,-22.942497</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>echaporã</name>
+		<description>
+			salario: 2.2 casamentos: 50 matriculas: 1227
+		</description>
+		<Point>
+			<coordinates>-50.209619,-22.419930</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>itaporanga</name>
+		<description>
+			salario: 1.8 casamentos: 82 matriculas: 3221
+		</description>
+		<Point>
+			<coordinates>-49.438713,-23.650519</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ferraz de vasconcelos</name>
+		<description>
+			salario: 2.5 casamentos: 1187 matriculas: 39438
+		</description>
+		<Point>
+			<coordinates>-46.374677,-23.564493</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>icém</name>
+		<description>
+			salario: 2.5 casamentos: 56 matriculas: 1636
+		</description>
+		<Point>
+			<coordinates>-49.192464,-20.366182</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>aguaí</name>
+		<description>
+			salario: 2.2 casamentos: 171 matriculas: 6537
+		</description>
+		<Point>
+			<coordinates>-47.047584,-22.057596</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>pindorama</name>
+		<description>
+			salario: 2.6 casamentos: 83 matriculas: 2377
+		</description>
+		<Point>
+			<coordinates>-48.926153,-21.202557</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>mesópolis</name>
+		<description>
+			salario: 2.5 casamentos: 6 matriculas: 324
+		</description>
+		<Point>
+			<coordinates>-50.619057,-19.955231</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>santa maria da serra</name>
+		<description>
+			salario: 2.0 casamentos: 35 matriculas: 1211
+		</description>
+		<Point>
+			<coordinates>-48.158219,-22.563972</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>guaraci</name>
+		<description>
+			salario: 2.4 casamentos: 41 matriculas: 2020
+		</description>
+		<Point>
+			<coordinates>-48.986476,-20.370862</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>socorro</name>
+		<description>
+			salario: 2.0 casamentos: 243 matriculas: 6305
+		</description>
+		<Point>
+			<coordinates>-46.512210,-22.599060</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>itapevi</name>
+		<description>
+			salario: 3.5 casamentos: 986 matriculas: 52971
+		</description>
+		<Point>
+			<coordinates>-46.968782,-23.551223</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>gabriel monteiro</name>
+		<description>
+			salario: 1.6 casamentos: 11 matriculas: 406
+		</description>
+		<Point>
+			<coordinates>-50.573895,-21.508107</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>lucianópolis</name>
+		<description>
+			salario: 2.1 casamentos: 7 matriculas: 458
+		</description>
+		<Point>
+			<coordinates>-49.552664,-22.480024</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>analândia</name>
+		<description>
+			salario: 2.6 casamentos: 27 matriculas: 911
+		</description>
+		<Point>
+			<coordinates>-47.674914,-22.126571</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>getulina</name>
+		<description>
+			salario: 2.5 casamentos: 47 matriculas: 1954
+		</description>
+		<Point>
+			<coordinates>-50.056638,-21.811249</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>indiaporã</name>
+		<description>
+			salario: 2.3 casamentos: 24 matriculas: 637
+		</description>
+		<Point>
+			<coordinates>-50.262006,-19.957057</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>arealva</name>
+		<description>
+			salario: 2.0 casamentos: 26 matriculas: 1462
+		</description>
+		<Point>
+			<coordinates>-48.994464,-22.076394</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>marília</name>
+		<description>
+			salario: 3.0 casamentos: 1651 matriculas: 42587
+		</description>
+		<Point>
+			<coordinates>-49.959027,-22.187429</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>riversul</name>
+		<description>
+			salario: 1.8 casamentos: 24 matriculas: 1288
+		</description>
+		<Point>
+			<coordinates>-49.450050,-23.844420</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>caiabu</name>
+		<description>
+			salario: 2.0 casamentos: 16 matriculas: 798
+		</description>
+		<Point>
+			<coordinates>-51.221317,-21.947482</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>santana da ponte pensa</name>
+		<description>
+			salario: 2.5 casamentos: 4 matriculas: 207
+		</description>
+		<Point>
+			<coordinates>-50.804233,-20.250686</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>são joão de iracema</name>
+		<description>
+			salario: 2.5 casamentos: 7 matriculas: 330
+		</description>
+		<Point>
+			<coordinates>-50.365554,-20.523559</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>pontalinda</name>
+		<description>
+			salario: 2.2 casamentos: 15 matriculas: 765
+		</description>
+		<Point>
+			<coordinates>-50.527680,-20.453100</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>lavrinhas</name>
+		<description>
+			salario: 2.4 casamentos: 41 matriculas: 1433
+		</description>
+		<Point>
+			<coordinates>-44.897388,-22.522435</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>barra do turvo</name>
+		<description>
+			salario: 2.5 casamentos: 32 matriculas: 2037
+		</description>
+		<Point>
+			<coordinates>-48.404734,-24.876227</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ribeirão corrente</name>
+		<description>
+			salario: 2.3 casamentos: 22 matriculas: 1094
+		</description>
+		<Point>
+			<coordinates>-47.582862,-20.458380</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>itápolis</name>
+		<description>
+			salario: 2.2 casamentos: 276 matriculas: 6893
+		</description>
+		<Point>
+			<coordinates>-48.787281,-21.543540</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>são bernardo do campo</name>
+		<description>
+			salario: 5.0 casamentos: 5594 matriculas: 161512
+		</description>
+		<Point>
+			<coordinates>-46.531171,-23.804477</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>taquarivaí</name>
+		<description>
+			salario: 2.0 casamentos: 26 matriculas: 1591
+		</description>
+		<Point>
+			<coordinates>-48.671528,-23.940153</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>pedregulho</name>
+		<description>
+			salario: 2.8 casamentos: 73 matriculas: 3154
+		</description>
+		<Point>
+			<coordinates>-47.425157,-20.159623</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>jumirim</name>
+		<description>
+			salario: 2.1 casamentos: 14 matriculas: 571
+		</description>
+		<Point>
+			<coordinates>-47.792947,-23.101004</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>potirendaba</name>
+		<description>
+			salario: 2.8 casamentos: 94 matriculas: 2723
+		</description>
+		<Point>
+			<coordinates>-49.392623,-21.076400</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>franca</name>
+		<description>
+			salario: 2.2 casamentos: 2468 matriculas: 68965
+		</description>
+		<Point>
+			<coordinates>-47.348109,-20.595277</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>santópolis do aguapeí</name>
+		<description>
+			salario: 1.9 casamentos: 14 matriculas: 895
+		</description>
+		<Point>
+			<coordinates>-50.526565,-21.660545</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>paranapanema</name>
+		<description>
+			salario: 2.3 casamentos: 132 matriculas: 3969
+		</description>
+		<Point>
+			<coordinates>-48.804453,-23.455329</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>nova odessa</name>
+		<description>
+			salario: 3.3 casamentos: 379 matriculas: 10896
+		</description>
+		<Point>
+			<coordinates>-47.284490,-22.781595</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>mirante do paranapanema</name>
+		<description>
+			salario: 2.9 casamentos: 108 matriculas: 3467
+		</description>
+		<Point>
+			<coordinates>-51.985295,-22.345409</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>indiana</name>
+		<description>
+			salario: 1.9 casamentos: 30 matriculas: 781
+		</description>
+		<Point>
+			<coordinates>-51.261624,-22.133444</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>coronel macedo</name>
+		<description>
+			salario: 1.9 casamentos: 18 matriculas: 1004
+		</description>
+		<Point>
+			<coordinates>-49.304444,-23.631315</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>pongaí</name>
+		<description>
+			salario: 2.1 casamentos: 23 matriculas: 577
+		</description>
+		<Point>
+			<coordinates>-49.353931,-21.723906</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>iacanga</name>
+		<description>
+			salario: 2.6 casamentos: 69 matriculas: 1991
+		</description>
+		<Point>
+			<coordinates>-49.022215,-21.900443</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>florínia</name>
+		<description>
+			salario: 2.1 casamentos: 26 matriculas: 565
+		</description>
+		<Point>
+			<coordinates>-50.687945,-22.868063</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>brodowski</name>
+		<description>
+			salario: 2.1 casamentos: 100 matriculas: 4430
+		</description>
+		<Point>
+			<coordinates>-47.621990,-21.043747</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>trabiju</name>
+		<description>
+			salario: 1.8 casamentos: 7 matriculas: 402
+		</description>
+		<Point>
+			<coordinates>-48.366411,-22.031971</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>taubaté</name>
+		<description>
+			salario: 4.3 casamentos: 2097 matriculas: 60249
+		</description>
+		<Point>
+			<coordinates>-45.507052,-23.086302</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>álvares machado</name>
+		<description>
+			salario: 2.2 casamentos: 151 matriculas: 4822
+		</description>
+		<Point>
+			<coordinates>-51.506588,-22.119055</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>pradópolis</name>
+		<description>
+			salario: 2.6 casamentos: 80 matriculas: 3403
+		</description>
+		<Point>
+			<coordinates>-48.070570,-21.346202</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>itararé</name>
+		<description>
+			salario: 2.0 casamentos: 315 matriculas: 10281
+		</description>
+		<Point>
+			<coordinates>-49.322961,-24.101536</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>macatuba</name>
+		<description>
+			salario: 2.8 casamentos: 101 matriculas: 3349
+		</description>
+		<Point>
+			<coordinates>-48.724054,-22.463798</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>cubatão</name>
+		<description>
+			salario: 5.3 casamentos: 893 matriculas: 27174
+		</description>
+		<Point>
+			<coordinates>-46.408238,-23.861306</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>pratânia</name>
+		<description>
+			salario: 2.3 casamentos: 12 matriculas: 1355
+		</description>
+		<Point>
+			<coordinates>-48.684941,-22.816333</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>são josé da bela vista</name>
+		<description>
+			salario: 1.9 casamentos: 26 matriculas: 1918
+		</description>
+		<Point>
+			<coordinates>-47.635851,-20.590942</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>fartura</name>
+		<description>
+			salario: 1.7 casamentos: 68 matriculas: 3359
+		</description>
+		<Point>
+			<coordinates>-49.515304,-23.400043</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>general salgado</name>
+		<description>
+			salario: 2.3 casamentos: 51 matriculas: 1818
+		</description>
+		<Point>
+			<coordinates>-50.417058,-20.643671</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>pracinha</name>
+		<description>
+			salario: 1.8 casamentos: 14 matriculas: 323
+		</description>
+		<Point>
+			<coordinates>-51.074233,-21.838492</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>buritizal</name>
+		<description>
+			salario: 3.5 casamentos: 26 matriculas: 785
+		</description>
+		<Point>
+			<coordinates>-47.714851,-20.204817</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>redenção da serra</name>
+		<description>
+			salario: 2.2 casamentos: 21 matriculas: 908
+		</description>
+		<Point>
+			<coordinates>-45.508667,-23.249473</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>viradouro</name>
+		<description>
+			salario: 1.7 casamentos: 113 matriculas: 3458
+		</description>
+		<Point>
+			<coordinates>-48.308513,-20.880631</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>pompéia</name>
+		<description>
+			salario: 4.6 casamentos: 105 matriculas: 3758
+		</description>
+		<Point>
+			<coordinates>-50.194631,-22.034419</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>pontes gestal</name>
+		<description>
+			salario: 2.6 casamentos: 24 matriculas: 444
+		</description>
+		<Point>
+			<coordinates>-49.738816,-20.178308</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>tejupá</name>
+		<description>
+			salario: 2.1 casamentos: 17 matriculas: 1248
+		</description>
+		<Point>
+			<coordinates>-49.310149,-23.348972</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>campo limpo paulista</name>
+		<description>
+			salario: 4.3 casamentos: 665 matriculas: 17626
+		</description>
+		<Point>
+			<coordinates>-46.756398,-23.210242</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>euclides da cunha paulista</name>
+		<description>
+			salario: 2.0 casamentos: 94 matriculas: 2199
+		</description>
+		<Point>
+			<coordinates>-52.612165,-22.510902</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>tabatinga</name>
+		<description>
+			salario: 1.7 casamentos: 45 matriculas: 2958
+		</description>
+		<Point>
+			<coordinates>-48.615115,-21.727298</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>salto</name>
+		<description>
+			salario: 3.0 casamentos: 768 matriculas: 22150
+		</description>
+		<Point>
+			<coordinates>-47.292559,-23.173858</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>cesário lange</name>
+		<description>
+			salario: 2.2 casamentos: 93 matriculas: 3503
+		</description>
+		<Point>
+			<coordinates>-47.905487,-23.217057</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>jeriquara</name>
+		<description>
+			salario: 2.2 casamentos: 11 matriculas: 779
+		</description>
+		<Point>
+			<coordinates>-47.571043,-20.341677</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>leme</name>
+		<description>
+			salario: 2.6 casamentos: 593 matriculas: 18981
+		</description>
+		<Point>
+			<coordinates>-47.340614,-22.176397</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ribeirão grande</name>
+		<description>
+			salario: 2.7 casamentos: 53 matriculas: 1776
+		</description>
+		<Point>
+			<coordinates>-48.362041,-24.183276</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>queluz</name>
+		<description>
+			salario: 2.4 casamentos: 98 matriculas: 2086
+		</description>
+		<Point>
+			<coordinates>-44.771685,-22.508813</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>santo antônio do jardim</name>
+		<description>
+			salario: 2.0 casamentos: 19 matriculas: 1309
+		</description>
+		<Point>
+			<coordinates>-46.678165,-22.132288</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>itapirapuã paulista</name>
+		<description>
+			salario: 1.9 casamentos: 25 matriculas: 1135
+		</description>
+		<Point>
+			<coordinates>-49.220479,-24.556246</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>riolândia</name>
+		<description>
+			salario: 2.3 casamentos: 84 matriculas: 2060
+		</description>
+		<Point>
+			<coordinates>-49.727817,-20.051039</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>taiaçu</name>
+		<description>
+			salario: 2.1 casamentos: 45 matriculas: 1164
+		</description>
+		<Point>
+			<coordinates>-48.536892,-21.132753</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>lutécia</name>
+		<description>
+			salario: 2.1 casamentos: 16 matriculas: 599
+		</description>
+		<Point>
+			<coordinates>-50.358220,-22.322332</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>quatá</name>
+		<description>
+			salario: 2.8 casamentos: 84 matriculas: 2627
+		</description>
+		<Point>
+			<coordinates>-50.636226,-22.228907</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>cerqueira césar</name>
+		<description>
+			salario: 2.6 casamentos: 91 matriculas: 4120
+		</description>
+		<Point>
+			<coordinates>-49.115017,-23.071570</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>itajobi</name>
+		<description>
+			salario: 2.2 casamentos: 71 matriculas: 2339
+		</description>
+		<Point>
+			<coordinates>-49.067120,-21.366802</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>neves paulista</name>
+		<description>
+			salario: 2.3 casamentos: 43 matriculas: 1270
+		</description>
+		<Point>
+			<coordinates>-49.644997,-20.876142</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>canitar</name>
+		<description>
+			salario: 2.3 casamentos: 41 matriculas: 1224
+		</description>
+		<Point>
+			<coordinates>-49.789621,-23.022367</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>biritiba-mirim</name>
+		<description>
+			salario: 2.2 casamentos: 209 matriculas: 6293
+		</description>
+		<Point>
+			<coordinates>-46.014041,-23.621608</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>garça</name>
+		<description>
+			salario: 2.2 casamentos: 265 matriculas: 8789
+		</description>
+		<Point>
+			<coordinates>-49.689672,-22.229507</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>cotia</name>
+		<description>
+			salario: 3.7 casamentos: 1341 matriculas: 55883
+		</description>
+		<Point>
+			<coordinates>-46.946265,-23.683253</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ipiguá</name>
+		<description>
+			salario: 2.2 casamentos: 26 matriculas: 893
+		</description>
+		<Point>
+			<coordinates>-49.405999,-20.637647</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>marinópolis</name>
+		<description>
+			salario: 2.0 casamentos: 8 matriculas: 400
+		</description>
+		<Point>
+			<coordinates>-50.836021,-20.480474</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>piquete</name>
+		<description>
+			salario: 2.4 casamentos: 96 matriculas: 2444
+		</description>
+		<Point>
+			<coordinates>-45.181862,-22.578202</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>valinhos</name>
+		<description>
+			salario: 3.9 casamentos: 742 matriculas: 23314
+		</description>
+		<Point>
+			<coordinates>-46.975173,-22.980126</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>itobi</name>
+		<description>
+			salario: 1.7 casamentos: 20 matriculas: 1391
+		</description>
+		<Point>
+			<coordinates>-46.926942,-21.758206</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>vargem grande do sul</name>
+		<description>
+			salario: 2.1 casamentos: 212 matriculas: 7524
+		</description>
+		<Point>
+			<coordinates>-46.877363,-21.868669</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>sabino</name>
+		<description>
+			salario: 2.6 casamentos: 31 matriculas: 949
+		</description>
+		<Point>
+			<coordinates>-49.573268,-21.483107</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>iaras</name>
+		<description>
+			salario: 2.6 casamentos: 35 matriculas: 1560
+		</description>
+		<Point>
+			<coordinates>-49.096659,-22.813032</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>carapicuíba</name>
+		<description>
+			salario: 2.3 casamentos: 2323 matriculas: 80631
+		</description>
+		<Point>
+			<coordinates>-46.845577,-23.547468</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>santa mercedes</name>
+		<description>
+			salario: 2.3 casamentos: 17 matriculas: 675
+		</description>
+		<Point>
+			<coordinates>-51.740519,-21.309507</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>jales</name>
+		<description>
+			salario: 2.3 casamentos: 335 matriculas: 8236
+		</description>
+		<Point>
+			<coordinates>-50.557403,-20.264060</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>onda verde</name>
+		<description>
+			salario: 2.1 casamentos: 27 matriculas: 797
+		</description>
+		<Point>
+			<coordinates>-49.247655,-20.610327</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>itapetininga</name>
+		<description>
+			salario: 2.3 casamentos: 1102 matriculas: 32087
+		</description>
+		<Point>
+			<coordinates>-48.107893,-23.634885</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>santa rita d`oeste</name>
+		<description>
+			salario: 2.2 casamentos: 12 matriculas: 367
+		</description>
+		<Point>
+			<coordinates>0.000000,0.000000</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>taquaritinga</name>
+		<description>
+			salario: 2.2 casamentos: 375 matriculas: 10589
+		</description>
+		<Point>
+			<coordinates>-48.518535,-21.441985</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>torrinha</name>
+		<description>
+			salario: 2.0 casamentos: 54 matriculas: 1558
+		</description>
+		<Point>
+			<coordinates>-48.165124,-22.449106</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>orindiúva</name>
+		<description>
+			salario: 2.1 casamentos: 36 matriculas: 1281
+		</description>
+		<Point>
+			<coordinates>-49.362078,-20.214216</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>estrela d`oeste</name>
+		<description>
+			salario: 2.2 casamentos: 37 matriculas: 1401
+		</description>
+		<Point>
+			<coordinates>0.000000,0.000000</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>jaú</name>
+		<description>
+			salario: 2.4 casamentos: 784 matriculas: 24892
+		</description>
+		<Point>
+			<coordinates>-48.536554,-22.301402</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>osasco</name>
+		<description>
+			salario: 3.6 casamentos: 4868 matriculas: 153444
+		</description>
+		<Point>
+			<coordinates>-46.784434,-23.533526</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>nipoã</name>
+		<description>
+			salario: 3.3 casamentos: 26 matriculas: 838
+		</description>
+		<Point>
+			<coordinates>-49.775988,-20.892493</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>cândido rodrigues</name>
+		<description>
+			salario: 2.1 casamentos: 20 matriculas: 441
+		</description>
+		<Point>
+			<coordinates>-48.629886,-21.340614</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>pirassununga</name>
+		<description>
+			salario: 3.2 casamentos: 365 matriculas: 13331
+		</description>
+		<Point>
+			<coordinates>-47.411978,-21.972027</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>são josé do rio preto</name>
+		<description>
+			salario: 2.9 casamentos: 2861 matriculas: 71925
+		</description>
+		<Point>
+			<coordinates>-49.359434,-20.783972</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>araçatuba</name>
+		<description>
+			salario: 2.9 casamentos: 1382 matriculas: 32869
+		</description>
+		<Point>
+			<coordinates>-50.620910,-21.142958</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>mogi das cruzes</name>
+		<description>
+			salario: 3.0 casamentos: 2930 matriculas: 89757
+		</description>
+		<Point>
+			<coordinates>-46.186518,-23.556552</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>rancharia</name>
+		<description>
+			salario: 1.9 casamentos: 139 matriculas: 5920
+		</description>
+		<Point>
+			<coordinates>-50.908760,-22.312985</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>mendonça</name>
+		<description>
+			salario: 2.7 casamentos: 33 matriculas: 835
+		</description>
+		<Point>
+			<coordinates>-49.571221,-21.202590</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>caraguatatuba</name>
+		<description>
+			salario: 2.6 casamentos: 892 matriculas: 23874
+		</description>
+		<Point>
+			<coordinates>-45.489455,-23.621561</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>bastos</name>
+		<description>
+			salario: 2.2 casamentos: 125 matriculas: 4136
+		</description>
+		<Point>
+			<coordinates>-50.764190,-21.946273</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>são joão do pau d`alho</name>
+		<description>
+			salario: 2.4 casamentos: 12 matriculas: 356
+		</description>
+		<Point>
+			<coordinates>0.000000,0.000000</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>são paulo</name>
+		<description>
+			salario: 4.6 casamentos: 66305 matriculas: 2294717
+		</description>
+		<Point>
+			<coordinates>-46.595641,-23.682362</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>praia grande</name>
+		<description>
+			salario: 2.4 casamentos: 1616 matriculas: 61015
+		</description>
+		<Point>
+			<coordinates>-46.498297,-24.018022</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>orlândia</name>
+		<description>
+			salario: 3.0 casamentos: 197 matriculas: 8318
+		</description>
+		<Point>
+			<coordinates>-47.895241,-20.700235</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>boa esperança do sul</name>
+		<description>
+			salario: 1.9 casamentos: 51 matriculas: 2885
+		</description>
+		<Point>
+			<coordinates>-48.466739,-21.949150</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ibitinga</name>
+		<description>
+			salario: 1.7 casamentos: 302 matriculas: 9600
+		</description>
+		<Point>
+			<coordinates>-48.863399,-21.789689</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>areias</name>
+		<description>
+			salario: 2.0 casamentos: 29 matriculas: 890
+		</description>
+		<Point>
+			<coordinates>-44.729162,-22.677775</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>matão</name>
+		<description>
+			salario: 2.9 casamentos: 664 matriculas: 14994
+		</description>
+		<Point>
+			<coordinates>-48.444795,-21.618242</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>itu</name>
+		<description>
+			salario: 3.1 casamentos: 1088 matriculas: 33899
+		</description>
+		<Point>
+			<coordinates>-47.277674,-23.297620</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>rubiácea</name>
+		<description>
+			salario: 2.5 casamentos: 22 matriculas: 530
+		</description>
+		<Point>
+			<coordinates>-50.808670,-21.345045</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>itatiba</name>
+		<description>
+			salario: 3.1 casamentos: 671 matriculas: 20831
+		</description>
+		<Point>
+			<coordinates>-46.799005,-23.014433</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>chavantes</name>
+		<description>
+			salario: 2.9 casamentos: 79 matriculas: 2375
+		</description>
+		<Point>
+			<coordinates>-49.742303,-23.041735</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>cordeirópolis</name>
+		<description>
+			salario: 3.4 casamentos: 122 matriculas: 4334
+		</description>
+		<Point>
+			<coordinates>-47.397749,-22.477816</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>alumínio</name>
+		<description>
+			salario: 6.5 casamentos: 129 matriculas: 4436
+		</description>
+		<Point>
+			<coordinates>-47.277507,-23.533547</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>estrela do norte</name>
+		<description>
+			salario: 1.9 casamentos: 21 matriculas: 550
+		</description>
+		<Point>
+			<coordinates>-51.677692,-22.482818</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>itaóca</name>
+		<description>
+			salario: 2.3 casamentos: 25 matriculas: 877
+		</description>
+		<Point>
+			<coordinates>-48.839973,-24.613564</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>paraguaçu paulista</name>
+		<description>
+			salario: 2.5 casamentos: 257 matriculas: 8562
+		</description>
+		<Point>
+			<coordinates>-50.635958,-22.465005</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>corumbataí</name>
+		<description>
+			salario: 2.6 casamentos: 37 matriculas: 897
+		</description>
+		<Point>
+			<coordinates>-47.596913,-22.242502</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>tambaú</name>
+		<description>
+			salario: 2.4 casamentos: 131 matriculas: 4306
+		</description>
+		<Point>
+			<coordinates>-47.241569,-21.600040</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>terra roxa</name>
+		<description>
+			salario: 2.0 casamentos: 78 matriculas: 1572
+		</description>
+		<Point>
+			<coordinates>-48.347228,-20.774899</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>iguape</name>
+		<description>
+			salario: 2.1 casamentos: 184 matriculas: 6569
+		</description>
+		<Point>
+			<coordinates>-47.454321,-24.591768</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>óleo</name>
+		<description>
+			salario: 2.5 casamentos: 11 matriculas: 550
+		</description>
+		<Point>
+			<coordinates>-49.370232,-22.970241</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>dolcinópolis</name>
+		<description>
+			salario: 2.1 casamentos: 13 matriculas: 407
+		</description>
+		<Point>
+			<coordinates>-50.529986,-20.106101</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>sud mennucci</name>
+		<description>
+			salario: 2.2 casamentos: 47 matriculas: 1469
+		</description>
+		<Point>
+			<coordinates>-50.909692,-20.678946</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>pindamonhangaba</name>
+		<description>
+			salario: 4.1 casamentos: 1068 matriculas: 31524
+		</description>
+		<Point>
+			<coordinates>-45.489080,-22.887057</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>flórida paulista</name>
+		<description>
+			salario: 2.1 casamentos: 67 matriculas: 2122
+		</description>
+		<Point>
+			<coordinates>-51.171855,-21.549273</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>anhembi</name>
+		<description>
+			salario: 2.5 casamentos: 20 matriculas: 1417
+		</description>
+		<Point>
+			<coordinates>-48.162374,-22.796067</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>alvinlândia</name>
+		<description>
+			salario: 2.4 casamentos: 20 matriculas: 706
+		</description>
+		<Point>
+			<coordinates>-49.760685,-22.451319</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>holambra</name>
+		<description>
+			salario: 2.8 casamentos: 62 matriculas: 3020
+		</description>
+		<Point>
+			<coordinates>-47.065897,-22.629820</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>guariba</name>
+		<description>
+			salario: 2.9 casamentos: 248 matriculas: 7956
+		</description>
+		<Point>
+			<coordinates>-48.224690,-21.397047</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>arujá</name>
+		<description>
+			salario: 3.3 casamentos: 505 matriculas: 20358
+		</description>
+		<Point>
+			<coordinates>-46.312643,-23.379362</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ribeirão dos índios</name>
+		<description>
+			salario: 2.1 casamentos: 6 matriculas: 390
+		</description>
+		<Point>
+			<coordinates>-51.589485,-21.808641</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>lorena</name>
+		<description>
+			salario: 2.8 casamentos: 550 matriculas: 17119
+		</description>
+		<Point>
+			<coordinates>-45.047768,-22.776984</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>guararema</name>
+		<description>
+			salario: 3.7 casamentos: 169 matriculas: 6323
+		</description>
+		<Point>
+			<coordinates>-46.056183,-23.425384</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>pirangi</name>
+		<description>
+			salario: 2.3 casamentos: 33 matriculas: 1963
+		</description>
+		<Point>
+			<coordinates>-48.671897,-21.084242</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>buritama</name>
+		<description>
+			salario: 2.2 casamentos: 93 matriculas: 2900
+		</description>
+		<Point>
+			<coordinates>-50.206443,-21.058801</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>araçariguama</name>
+		<description>
+			salario: 3.6 casamentos: 158 matriculas: 4502
+		</description>
+		<Point>
+			<coordinates>-47.068742,-23.433689</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ubirajara</name>
+		<description>
+			salario: 2.3 casamentos: 37 matriculas: 896
+		</description>
+		<Point>
+			<coordinates>-49.668421,-22.551051</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>natividade da serra</name>
+		<description>
+			salario: 2.2 casamentos: 39 matriculas: 1314
+		</description>
+		<Point>
+			<coordinates>-45.369455,-23.427308</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>apiaí</name>
+		<description>
+			salario: 2.3 casamentos: 175 matriculas: 6207
+		</description>
+		<Point>
+			<coordinates>-48.804921,-24.414530</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>cândido mota</name>
+		<description>
+			salario: 2.6 casamentos: 202 matriculas: 5774
+		</description>
+		<Point>
+			<coordinates>-50.420348,-22.809699</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>floreal</name>
+		<description>
+			salario: 2.2 casamentos: 13 matriculas: 410
+		</description>
+		<Point>
+			<coordinates>-50.169295,-20.647438</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>santa rosa de viterbo</name>
+		<description>
+			salario: 3.0 casamentos: 175 matriculas: 4642
+		</description>
+		<Point>
+			<coordinates>-47.355609,-21.504360</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>boituva</name>
+		<description>
+			salario: 3.0 casamentos: 295 matriculas: 10792
+		</description>
+		<Point>
+			<coordinates>-47.676766,-23.284991</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>rubinéia</name>
+		<description>
+			salario: 2.2 casamentos: 34 matriculas: 512
+		</description>
+		<Point>
+			<coordinates>-51.013869,-20.264029</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>roseira</name>
+		<description>
+			salario: 2.1 casamentos: 59 matriculas: 1968
+		</description>
+		<Point>
+			<coordinates>-45.304716,-22.932571</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>flora rica</name>
+		<description>
+			salario: 2.3 casamentos: 12 matriculas: 334
+		</description>
+		<Point>
+			<coordinates>-51.380844,-21.701878</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>pirapora do bom jesus</name>
+		<description>
+			salario: 2.6 casamentos: 75 matriculas: 4550
+		</description>
+		<Point>
+			<coordinates>-46.972585,-23.378063</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>igaratá</name>
+		<description>
+			salario: 2.2 casamentos: 51 matriculas: 2275
+		</description>
+		<Point>
+			<coordinates>-46.164560,-23.121151</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>cajati</name>
+		<description>
+			salario: 3.3 casamentos: 191 matriculas: 7313
+		</description>
+		<Point>
+			<coordinates>-48.183180,-24.776405</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ribeirão preto</name>
+		<description>
+			salario: 3.2 casamentos: 3843 matriculas: 112472
+		</description>
+		<Point>
+			<coordinates>-47.817918,-21.214429</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>birigui</name>
+		<description>
+			salario: 1.9 casamentos: 744 matriculas: 20108
+		</description>
+		<Point>
+			<coordinates>-50.352861,-21.264193</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>nova europa</name>
+		<description>
+			salario: 1.6 casamentos: 72 matriculas: 1690
+		</description>
+		<Point>
+			<coordinates>-48.555527,-21.778382</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>rio claro</name>
+		<description>
+			salario: 3.1 casamentos: 1239 matriculas: 35158
+		</description>
+		<Point>
+			<coordinates>-47.613488,-22.397873</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>vinhedo</name>
+		<description>
+			salario: 3.7 casamentos: 448 matriculas: 13933
+		</description>
+		<Point>
+			<coordinates>-46.972506,-23.060915</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>presidente prudente</name>
+		<description>
+			salario: 2.7 casamentos: 1751 matriculas: 38607
+		</description>
+		<Point>
+			<coordinates>-51.353541,-21.963819</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>valentim gentil</name>
+		<description>
+			salario: 2.0 casamentos: 92 matriculas: 2075
+		</description>
+		<Point>
+			<coordinates>-50.117359,-20.409112</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>mira estrela</name>
+		<description>
+			salario: 2.2 casamentos: 13 matriculas: 497
+		</description>
+		<Point>
+			<coordinates>-50.118772,-19.961113</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>itanhaém</name>
+		<description>
+			salario: 3.1 casamentos: 517 matriculas: 21927
+		</description>
+		<Point>
+			<coordinates>-46.812902,-24.095216</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>alfredo marcondes</name>
+		<description>
+			salario: 2.2 casamentos: 29 matriculas: 646
+		</description>
+		<Point>
+			<coordinates>-51.397134,-21.938101</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>teodoro sampaio</name>
+		<description>
+			salario: 2.8 casamentos: 194 matriculas: 4742
+		</description>
+		<Point>
+			<coordinates>-52.395578,-22.428107</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>conchas</name>
+		<description>
+			salario: 2.0 casamentos: 97 matriculas: 3563
+		</description>
+		<Point>
+			<coordinates>-48.046744,-22.962719</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>lavínia</name>
+		<description>
+			salario: 2.2 casamentos: 26 matriculas: 895
+		</description>
+		<Point>
+			<coordinates>-51.037926,-21.146897</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>monte aprazível</name>
+		<description>
+			salario: 2.8 casamentos: 153 matriculas: 3642
+		</description>
+		<Point>
+			<coordinates>-49.776706,-20.726634</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>herculândia</name>
+		<description>
+			salario: 2.3 casamentos: 59 matriculas: 1731
+		</description>
+		<Point>
+			<coordinates>-50.391184,-21.944305</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>cedral</name>
+		<description>
+			salario: 2.3 casamentos: 78 matriculas: 1429
+		</description>
+		<Point>
+			<coordinates>-49.258266,-20.916746</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>braúna</name>
+		<description>
+			salario: 2.2 casamentos: 15 matriculas: 889
+		</description>
+		<Point>
+			<coordinates>-50.341402,-21.547274</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>espírito santo do pinhal</name>
+		<description>
+			salario: 2.4 casamentos: 201 matriculas: 7649
+		</description>
+		<Point>
+			<coordinates>-46.785588,-22.185777</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>conchal</name>
+		<description>
+			salario: 2.1 casamentos: 169 matriculas: 5902
+		</description>
+		<Point>
+			<coordinates>-47.142288,-22.382802</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>turmalina</name>
+		<description>
+			salario: 2.1 casamentos: 10 matriculas: 274
+		</description>
+		<Point>
+			<coordinates>-50.456725,-20.071309</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>cerquilho</name>
+		<description>
+			salario: 2.7 casamentos: 256 matriculas: 7815
+		</description>
+		<Point>
+			<coordinates>-47.755918,-23.187446</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>silveiras</name>
+		<description>
+			salario: 1.9 casamentos: 33 matriculas: 1345
+		</description>
+		<Point>
+			<coordinates>-44.836202,-22.747959</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>bálsamo</name>
+		<description>
+			salario: 2.6 casamentos: 48 matriculas: 1322
+		</description>
+		<Point>
+			<coordinates>-49.555371,-20.703375</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ipeúna</name>
+		<description>
+			salario: 2.8 casamentos: 73 matriculas: 1455
+		</description>
+		<Point>
+			<coordinates>-47.717155,-22.434730</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>mococa</name>
+		<description>
+			salario: 2.7 casamentos: 308 matriculas: 13183
+		</description>
+		<Point>
+			<coordinates>-47.010952,-21.448913</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>guapiara</name>
+		<description>
+			salario: 2.2 casamentos: 180 matriculas: 4427
+		</description>
+		<Point>
+			<coordinates>-48.545568,-24.212672</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>amparo</name>
+		<description>
+			salario: 2.7 casamentos: 351 matriculas: 12105
+		</description>
+		<Point>
+			<coordinates>-46.806519,-22.697096</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>tupi paulista</name>
+		<description>
+			salario: 2.1 casamentos: 70 matriculas: 2136
+		</description>
+		<Point>
+			<coordinates>-51.601387,-21.383624</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>rio grande da serra</name>
+		<description>
+			salario: 2.9 casamentos: 346 matriculas: 8525
+		</description>
+		<Point>
+			<coordinates>-46.376274,-23.738144</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>valparaíso</name>
+		<description>
+			salario: 2.8 casamentos: 130 matriculas: 4097
+		</description>
+		<Point>
+			<coordinates>-50.944851,-21.187736</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ribeirão bonito</name>
+		<description>
+			salario: 2.9 casamentos: 104 matriculas: 2646
+		</description>
+		<Point>
+			<coordinates>-48.174944,-22.038361</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>olímpia</name>
+		<description>
+			salario: 2.5 casamentos: 301 matriculas: 9154
+		</description>
+		<Point>
+			<coordinates>-48.958102,-20.707209</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>paulistânia</name>
+		<description>
+			salario: 2.2 casamentos: 15 matriculas: 359
+		</description>
+		<Point>
+			<coordinates>-49.303941,-22.568429</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>americana</name>
+		<description>
+			salario: 3.0 casamentos: 1573 matriculas: 41474
+		</description>
+		<Point>
+			<coordinates>-47.290779,-22.724047</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>altinópolis</name>
+		<description>
+			salario: 2.3 casamentos: 173 matriculas: 3065
+		</description>
+		<Point>
+			<coordinates>-47.405206,-21.011750</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>cravinhos</name>
+		<description>
+			salario: 3.1 casamentos: 195 matriculas: 6741
+		</description>
+		<Point>
+			<coordinates>-47.768680,-21.312150</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>francisco morato</name>
+		<description>
+			salario: 2.6 casamentos: 934 matriculas: 41514
+		</description>
+		<Point>
+			<coordinates>-46.712295,-23.275304</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>piraju</name>
+		<description>
+			salario: 2.1 casamentos: 148 matriculas: 5715
+		</description>
+		<Point>
+			<coordinates>-49.385503,-23.194168</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>porto ferreira</name>
+		<description>
+			salario: 2.4 casamentos: 325 matriculas: 10047
+		</description>
+		<Point>
+			<coordinates>-47.444951,-21.845797</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>sertãozinho</name>
+		<description>
+			salario: 3.5 casamentos: 727 matriculas: 23357
+		</description>
+		<Point>
+			<coordinates>-48.028803,-21.105206</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>são pedro</name>
+		<description>
+			salario: 2.1 casamentos: 233 matriculas: 6216
+		</description>
+		<Point>
+			<coordinates>-47.931527,-22.558319</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>colômbia</name>
+		<description>
+			salario: 2.6 casamentos: 146 matriculas: 1446
+		</description>
+		<Point>
+			<coordinates>-48.697716,-20.274166</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>descalvado</name>
+		<description>
+			salario: 2.8 casamentos: 161 matriculas: 5748
+		</description>
+		<Point>
+			<coordinates>-47.651038,-21.880498</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>lupércio</name>
+		<description>
+			salario: 2.5 casamentos: 41 matriculas: 916
+		</description>
+		<Point>
+			<coordinates>-49.810426,-22.439249</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>miguelópolis</name>
+		<description>
+			salario: 2.4 casamentos: 91 matriculas: 4120
+		</description>
+		<Point>
+			<coordinates>-48.169701,-20.190821</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>itaju</name>
+		<description>
+			salario: 2.0 casamentos: 14 matriculas: 676
+		</description>
+		<Point>
+			<coordinates>-48.794031,-21.953936</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ilha comprida</name>
+		<description>
+			salario: 2.2 casamentos: 47 matriculas: 1797
+		</description>
+		<Point>
+			<coordinates>-47.675630,-24.864508</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>bariri</name>
+		<description>
+			salario: 2.2 casamentos: 228 matriculas: 6141
+		</description>
+		<Point>
+			<coordinates>-48.734971,-22.060676</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>cajuru</name>
+		<description>
+			salario: 2.4 casamentos: 78 matriculas: 4962
+		</description>
+		<Point>
+			<coordinates>-47.330120,-21.281691</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>engenheiro coelho</name>
+		<description>
+			salario: 3.1 casamentos: 104 matriculas: 3866
+		</description>
+		<Point>
+			<coordinates>-47.167682,-22.479144</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>nome</name>
+		<description>
+			salario: Valor casamentos: Valor matriculas: Resultado de A+B+C
+		</description>
+		<Point>
+			<coordinates>0.000000,0.000000</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>sarapuí</name>
+		<description>
+			salario: 1.9 casamentos: 64 matriculas: 2185
+		</description>
+		<Point>
+			<coordinates>-47.777549,-23.649065</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>presidente epitácio</name>
+		<description>
+			salario: 2.1 casamentos: 175 matriculas: 8348
+		</description>
+		<Point>
+			<coordinates>-52.198631,-21.883182</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>porangaba</name>
+		<description>
+			salario: 1.8 casamentos: 45 matriculas: 1478
+		</description>
+		<Point>
+			<coordinates>-48.118587,-23.175797</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>iacri</name>
+		<description>
+			salario: 2.3 casamentos: 62 matriculas: 1057
+		</description>
+		<Point>
+			<coordinates>-50.624274,-21.796119</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>magda</name>
+		<description>
+			salario: 2.5 casamentos: 16 matriculas: 512
+		</description>
+		<Point>
+			<coordinates>-50.220480,-20.609791</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>salesópolis</name>
+		<description>
+			salario: 2.2 casamentos: 81 matriculas: 3874
+		</description>
+		<Point>
+			<coordinates>-45.843739,-23.577634</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ibaté</name>
+		<description>
+			salario: 2.9 casamentos: 231 matriculas: 7024
+		</description>
+		<Point>
+			<coordinates>-48.043283,-21.940508</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>manduri</name>
+		<description>
+			salario: 1.8 casamentos: 47 matriculas: 1627
+		</description>
+		<Point>
+			<coordinates>-49.304837,-23.048743</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>boracéia</name>
+		<description>
+			salario: 2.2 casamentos: 35 matriculas: 905
+		</description>
+		<Point>
+			<coordinates>-48.785419,-22.167922</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ilha solteira</name>
+		<description>
+			salario: 4.4 casamentos: 143 matriculas: 4461
+		</description>
+		<Point>
+			<coordinates>-51.228601,-20.481352</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>são joaquim da barra</name>
+		<description>
+			salario: 3.0 casamentos: 288 matriculas: 9083
+		</description>
+		<Point>
+			<coordinates>-47.956584,-20.540807</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ribeira</name>
+		<description>
+			salario: 1.8 casamentos: 21 matriculas: 905
+		</description>
+		<Point>
+			<coordinates>-49.035629,-24.604189</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>presidente venceslau</name>
+		<description>
+			salario: 2.1 casamentos: 263 matriculas: 6515
+		</description>
+		<Point>
+			<coordinates>-51.862895,-21.791980</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>serrana</name>
+		<description>
+			salario: 3.1 casamentos: 235 matriculas: 9149
+		</description>
+		<Point>
+			<coordinates>-47.602996,-21.214223</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>piracaia</name>
+		<description>
+			salario: 2.1 casamentos: 157 matriculas: 5598
+		</description>
+		<Point>
+			<coordinates>-46.285025,-23.043288</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>mogi guaçu</name>
+		<description>
+			salario: 3.2 casamentos: 1057 matriculas: 27664
+		</description>
+		<Point>
+			<coordinates>-47.016647,-22.234106</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>colina</name>
+		<description>
+			salario: 2.2 casamentos: 100 matriculas: 3321
+		</description>
+		<Point>
+			<coordinates>-48.589530,-20.735051</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>juquitiba</name>
+		<description>
+			salario: 1.9 casamentos: 169 matriculas: 7757
+		</description>
+		<Point>
+			<coordinates>-47.007620,-23.949771</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>narandiba</name>
+		<description>
+			salario: 3.3 casamentos: 46 matriculas: 1026
+		</description>
+		<Point>
+			<coordinates>-51.536326,-22.524410</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>são josé do rio pardo</name>
+		<description>
+			salario: 2.5 casamentos: 298 matriculas: 9487
+		</description>
+		<Point>
+			<coordinates>-46.897585,-21.596485</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>itirapuã</name>
+		<description>
+			salario: 2.1 casamentos: 28 matriculas: 1301
+		</description>
+		<Point>
+			<coordinates>-47.174362,-20.648901</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>luiziânia</name>
+		<description>
+			salario: 2.0 casamentos: 25 matriculas: 903
+		</description>
+		<Point>
+			<coordinates>-50.349752,-21.673895</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ibirarema</name>
+		<description>
+			salario: 2.6 casamentos: 56 matriculas: 1325
+		</description>
+		<Point>
+			<coordinates>-50.070079,-22.811255</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>timburi</name>
+		<description>
+			salario: 2.4 casamentos: 11 matriculas: 510
+		</description>
+		<Point>
+			<coordinates>-49.619425,-23.197444</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>lourdes</name>
+		<description>
+			salario: 2.4 casamentos: 18 matriculas: 395
+		</description>
+		<Point>
+			<coordinates>-50.235077,-20.948455</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>piracicaba</name>
+		<description>
+			salario: 3.7 casamentos: 2666 matriculas: 72500
+		</description>
+		<Point>
+			<coordinates>-47.794562,-22.711022</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>votorantim</name>
+		<description>
+			salario: 2.9 casamentos: 783 matriculas: 22004
+		</description>
+		<Point>
+			<coordinates>-47.407539,-23.584338</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>hortolândia</name>
+		<description>
+			salario: 5.5 casamentos: 1356 matriculas: 44584
+		</description>
+		<Point>
+			<coordinates>-47.208254,-22.869701</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>são roque</name>
+		<description>
+			salario: 2.5 casamentos: 438 matriculas: 16814
+		</description>
+		<Point>
+			<coordinates>-47.099913,-23.532738</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>junqueirópolis</name>
+		<description>
+			salario: 2.6 casamentos: 112 matriculas: 3160
+		</description>
+		<Point>
+			<coordinates>-51.431851,-21.463844</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>palmares paulista</name>
+		<description>
+			salario: 2.2 casamentos: 57 matriculas: 2247
+		</description>
+		<Point>
+			<coordinates>-48.828366,-21.099009</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>bocaina</name>
+		<description>
+			salario: 2.5 casamentos: 63 matriculas: 2222
+		</description>
+		<Point>
+			<coordinates>-48.520730,-22.092809</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ilhabela</name>
+		<description>
+			salario: 2.4 casamentos: 151 matriculas: 6663
+		</description>
+		<Point>
+			<coordinates>-45.235222,-23.844154</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>jacupiranga</name>
+		<description>
+			salario: 2.0 casamentos: 89 matriculas: 3600
+		</description>
+		<Point>
+			<coordinates>-48.069069,-24.778780</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>moji mirim</name>
+		<description>
+			salario: 3.0 casamentos: 654 matriculas: 16588
+		</description>
+		<Point>
+			<coordinates>-46.998115,-22.437949</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>rinópolis</name>
+		<description>
+			salario: 2.0 casamentos: 53 matriculas: 1606
+		</description>
+		<Point>
+			<coordinates>-50.720089,-21.680896</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>iracemápolis</name>
+		<description>
+			salario: 2.4 casamentos: 119 matriculas: 3893
+		</description>
+		<Point>
+			<coordinates>-47.529887,-22.617191</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>bebedouro</name>
+		<description>
+			salario: 2.4 casamentos: 579 matriculas: 14226
+		</description>
+		<Point>
+			<coordinates>-48.525843,-20.938836</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>piratininga</name>
+		<description>
+			salario: 2.0 casamentos: 90 matriculas: 2303
+		</description>
+		<Point>
+			<coordinates>-49.194626,-22.415625</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>mauá</name>
+		<description>
+			salario: 3.7 casamentos: 2640 matriculas: 85648
+		</description>
+		<Point>
+			<coordinates>-46.441712,-23.665858</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>votuporanga</name>
+		<description>
+			salario: 2.3 casamentos: 561 matriculas: 14515
+		</description>
+		<Point>
+			<coordinates>-50.003474,-20.446344</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>promissão</name>
+		<description>
+			salario: 2.9 casamentos: 285 matriculas: 7422
+		</description>
+		<Point>
+			<coordinates>-49.903018,-21.491571</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>caiuá</name>
+		<description>
+			salario: 2.2 casamentos: 29 matriculas: 995
+		</description>
+		<Point>
+			<coordinates>-51.993997,-21.795123</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>guará</name>
+		<description>
+			salario: 2.4 casamentos: 114 matriculas: 4388
+		</description>
+		<Point>
+			<coordinates>-47.779464,-20.492742</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>pinhalzinho</name>
+		<description>
+			salario: 1.8 casamentos: 72 matriculas: 2635
+		</description>
+		<Point>
+			<coordinates>-46.573531,-22.786032</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>porto feliz</name>
+		<description>
+			salario: 2.6 casamentos: 339 matriculas: 10276
+		</description>
+		<Point>
+			<coordinates>-47.517940,-23.237941</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>igarapava</name>
+		<description>
+			salario: 3.0 casamentos: 187 matriculas: 5383
+		</description>
+		<Point>
+			<coordinates>-47.692602,-20.068876</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>cruzália</name>
+		<description>
+			salario: 2.5 casamentos: 12 matriculas: 367
+		</description>
+		<Point>
+			<coordinates>-50.753041,-22.735150</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>cristais paulista</name>
+		<description>
+			salario: 2.1 casamentos: 43 matriculas: 1726
+		</description>
+		<Point>
+			<coordinates>-47.403072,-20.366885</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>nuporanga</name>
+		<description>
+			salario: 2.0 casamentos: 63 matriculas: 1278
+		</description>
+		<Point>
+			<coordinates>-47.721940,-20.700092</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>atibaia</name>
+		<description>
+			salario: 3.0 casamentos: 808 matriculas: 29408
+		</description>
+		<Point>
+			<coordinates>-46.573684,-23.129537</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>arapeí</name>
+		<description>
+			salario: 1.9 casamentos: 15 matriculas: 589
+		</description>
+		<Point>
+			<coordinates>-44.446545,-22.672133</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>barrinha</name>
+		<description>
+			salario: 2.2 casamentos: 218 matriculas: 6693
+		</description>
+		<Point>
+			<coordinates>-48.084983,-21.233157</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>lindóia</name>
+		<description>
+			salario: 2.3 casamentos: 26 matriculas: 1217
+		</description>
+		<Point>
+			<coordinates>-46.655782,-22.513664</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>bofete</name>
+		<description>
+			salario: 2.1 casamentos: 87 matriculas: 1992
+		</description>
+		<Point>
+			<coordinates>-48.307706,-23.130627</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>barão de antonina</name>
+		<description>
+			salario: 1.8 casamentos: 23 matriculas: 686
+		</description>
+		<Point>
+			<coordinates>-49.559806,-23.568608</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>guarujá</name>
+		<description>
+			salario: 3.3 casamentos: 1887 matriculas: 67235
+		</description>
+		<Point>
+			<coordinates>-46.223490,-23.949184</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>sete barras</name>
+		<description>
+			salario: 2.1 casamentos: 74 matriculas: 3328
+		</description>
+		<Point>
+			<coordinates>-47.948588,-24.295585</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>santa cruz das palmeiras</name>
+		<description>
+			salario: 2.3 casamentos: 220 matriculas: 6260
+		</description>
+		<Point>
+			<coordinates>-47.253354,-21.861910</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>araçoiaba da serra</name>
+		<description>
+			salario: 1.0 casamentos: 205 matriculas: 6201
+		</description>
+		<Point>
+			<coordinates>-47.657441,-23.542943</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>presidente alves</name>
+		<description>
+			salario: 3.5 casamentos: 28 matriculas: 711
+		</description>
+		<Point>
+			<coordinates>-49.405864,-22.123608</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>pedreira</name>
+		<description>
+			salario: 2.4 casamentos: 215 matriculas: 7740
+		</description>
+		<Point>
+			<coordinates>-46.893123,-22.762372</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>itariri</name>
+		<description>
+			salario: 2.3 casamentos: 71 matriculas: 3162
+		</description>
+		<Point>
+			<coordinates>-47.135043,-24.286138</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>guararapes</name>
+		<description>
+			salario: 2.4 casamentos: 229 matriculas: 5443
+		</description>
+		<Point>
+			<coordinates>-50.708447,-21.275102</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>salto de pirapora</name>
+		<description>
+			salario: 2.9 casamentos: 216 matriculas: 8667
+		</description>
+		<Point>
+			<coordinates>-47.586658,-23.661069</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>são joão da boa vista</name>
+		<description>
+			salario: 2.8 casamentos: 544 matriculas: 15391
+		</description>
+		<Point>
+			<coordinates>-46.796994,-21.966520</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>lençóis paulista</name>
+		<description>
+			salario: 2.9 casamentos: 448 matriculas: 12778
+		</description>
+		<Point>
+			<coordinates>-48.812238,-22.668261</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>macaubal</name>
+		<description>
+			salario: 8.5 casamentos: 56 matriculas: 1158
+		</description>
+		<Point>
+			<coordinates>-49.976753,-20.850777</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ribeirão pires</name>
+		<description>
+			salario: 3.0 casamentos: 1097 matriculas: 23828
+		</description>
+		<Point>
+			<coordinates>-46.403014,-23.694283</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>adolfo</name>
+		<description>
+			salario: 2.4 casamentos: 21 matriculas: 706
+		</description>
+		<Point>
+			<coordinates>-49.657025,-21.280801</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>josé bonifácio</name>
+		<description>
+			salario: 2.2 casamentos: 191 matriculas: 6460
+		</description>
+		<Point>
+			<coordinates>-49.774503,-21.096958</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>santana de parnaíba</name>
+		<description>
+			salario: 3.5 casamentos: 760 matriculas: 30759
+		</description>
+		<Point>
+			<coordinates>-46.918923,-23.446575</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>elisiário</name>
+		<description>
+			salario: 2.5 casamentos: 22 matriculas: 571
+		</description>
+		<Point>
+			<coordinates>-49.087232,-21.153223</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>peruíbe</name>
+		<description>
+			salario: 2.2 casamentos: 413 matriculas: 15905
+		</description>
+		<Point>
+			<coordinates>-47.009243,-24.283396</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>borborema</name>
+		<description>
+			salario: 1.9 casamentos: 82 matriculas: 2522
+		</description>
+		<Point>
+			<coordinates>-49.076371,-21.605820</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>urânia</name>
+		<description>
+			salario: 2.3 casamentos: 48 matriculas: 1328
+		</description>
+		<Point>
+			<coordinates>-50.663455,-20.197616</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>cachoeira paulista</name>
+		<description>
+			salario: 2.4 casamentos: 235 matriculas: 6553
+		</description>
+		<Point>
+			<coordinates>-45.009212,-22.709939</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>são caetano do sul</name>
+		<description>
+			salario: 4.3 casamentos: 1265 matriculas: 31387
+		</description>
+		<Point>
+			<coordinates>-46.564802,-23.625047</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>cássia dos coqueiros</name>
+		<description>
+			salario: 1.8 casamentos: 8 matriculas: 652
+		</description>
+		<Point>
+			<coordinates>-47.139355,-21.267135</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>poá</name>
+		<description>
+			salario: 2.5 casamentos: 1149 matriculas: 29534
+		</description>
+		<Point>
+			<coordinates>-46.346532,-23.539181</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>botucatu</name>
+		<description>
+			salario: 3.6 casamentos: 974 matriculas: 25636
+		</description>
+		<Point>
+			<coordinates>-48.545926,-22.838599</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ribeirão branco</name>
+		<description>
+			salario: 1.9 casamentos: 118 matriculas: 4837
+		</description>
+		<Point>
+			<coordinates>-48.806715,-24.254043</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>santo andré</name>
+		<description>
+			salario: 3.3 casamentos: 3976 matriculas: 134102
+		</description>
+		<Point>
+			<coordinates>-46.422799,-23.710760</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>gália</name>
+		<description>
+			salario: 2.1 casamentos: 33 matriculas: 1128
+		</description>
+		<Point>
+			<coordinates>-49.575886,-22.325443</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>itirapina</name>
+		<description>
+			salario: 2.3 casamentos: 89 matriculas: 2676
+		</description>
+		<Point>
+			<coordinates>-47.835240,-22.292419</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>santa cruz da conceição</name>
+		<description>
+			salario: 1.7 casamentos: 18 matriculas: 785
+		</description>
+		<Point>
+			<coordinates>-47.489027,-22.125567</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>patrocínio paulista</name>
+		<description>
+			salario: 2.8 casamentos: 106 matriculas: 2725
+		</description>
+		<Point>
+			<coordinates>-47.295162,-20.693824</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>monte alto</name>
+		<description>
+			salario: 2.8 casamentos: 301 matriculas: 8014
+		</description>
+		<Point>
+			<coordinates>-48.565569,-21.258133</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>planalto</name>
+		<description>
+			salario: 3.2 casamentos: 25 matriculas: 1001
+		</description>
+		<Point>
+			<coordinates>-49.941042,-21.020166</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>caconde</name>
+		<description>
+			salario: 2.0 casamentos: 84 matriculas: 3821
+		</description>
+		<Point>
+			<coordinates>-46.631432,-21.556009</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>joanópolis</name>
+		<description>
+			salario: 1.8 casamentos: 60 matriculas: 2169
+		</description>
+		<Point>
+			<coordinates>-46.220139,-22.934911</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>são miguel arcanjo</name>
+		<description>
+			salario: 2.0 casamentos: 199 matriculas: 7047
+		</description>
+		<Point>
+			<coordinates>-48.010448,-23.931780</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>guaíra</name>
+		<description>
+			salario: 2.7 casamentos: 212 matriculas: 7330
+		</description>
+		<Point>
+			<coordinates>-48.396452,-20.336065</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ibirá</name>
+		<description>
+			salario: 2.0 casamentos: 80 matriculas: 1787
+		</description>
+		<Point>
+			<coordinates>-49.216771,-21.071638</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>pereiras</name>
+		<description>
+			salario: 1.9 casamentos: 45 matriculas: 1451
+		</description>
+		<Point>
+			<coordinates>-47.980444,-23.123504</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>embu-guaçu</name>
+		<description>
+			salario: 2.5 casamentos: 399 matriculas: 16987
+		</description>
+		<Point>
+			<coordinates>-46.837346,-23.853255</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>vitória brasil</name>
+		<description>
+			salario: 1.7 casamentos: 5 matriculas: 277
+		</description>
+		<Point>
+			<coordinates>-50.486597,-20.199027</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>santo expedito</name>
+		<description>
+			salario: 1.9 casamentos: 12 matriculas: 572
+		</description>
+		<Point>
+			<coordinates>-51.374706,-21.813530</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>itapecerica da serra</name>
+		<description>
+			salario: 3.5 casamentos: 740 matriculas: 39210
+		</description>
+		<Point>
+			<coordinates>-46.853475,-23.736278</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>álvares florence</name>
+		<description>
+			salario: 1.7 casamentos: 17 matriculas: 627
+		</description>
+		<Point>
+			<coordinates>-49.913719,-20.294410</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>tarumã</name>
+		<description>
+			salario: 2.6 casamentos: 96 matriculas: 2880
+		</description>
+		<Point>
+			<coordinates>-50.605088,-22.773122</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>santo anastácio</name>
+		<description>
+			salario: 2.3 casamentos: 106 matriculas: 3779
+		</description>
+		<Point>
+			<coordinates>-51.717412,-22.013724</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>tupã</name>
+		<description>
+			salario: 2.0 casamentos: 415 matriculas: 11407
+		</description>
+		<Point>
+			<coordinates>-50.532336,-21.957540</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>paulicéia</name>
+		<description>
+			salario: 3.0 casamentos: 44 matriculas: 1517
+		</description>
+		<Point>
+			<coordinates>-51.780837,-21.212629</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>palmeira d`oeste</name>
+		<description>
+			salario: 2.1 casamentos: 51 matriculas: 1552
+		</description>
+		<Point>
+			<coordinates>0.000000,0.000000</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>maracaí</name>
+		<description>
+			salario: 2.2 casamentos: 76 matriculas: 2661
+		</description>
+		<Point>
+			<coordinates>-50.748053,-22.657471</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>duartina</name>
+		<description>
+			salario: 2.0 casamentos: 77 matriculas: 2329
+		</description>
+		<Point>
+			<coordinates>-49.400582,-22.398792</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>águas de santa bárbara</name>
+		<description>
+			salario: 2.6 casamentos: 23 matriculas: 1203
+		</description>
+		<Point>
+			<coordinates>-49.273382,-22.879201</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>pedra bela</name>
+		<description>
+			salario: 1.8 casamentos: 39 matriculas: 1138
+		</description>
+		<Point>
+			<coordinates>-46.434042,-22.764927</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>anhumas</name>
+		<description>
+			salario: 2.1 casamentos: 18 matriculas: 744
+		</description>
+		<Point>
+			<coordinates>-51.433327,-22.356860</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>serra azul</name>
+		<description>
+			salario: 2.2 casamentos: 44 matriculas: 2174
+		</description>
+		<Point>
+			<coordinates>-47.558730,-21.307264</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>espírito santo do turvo</name>
+		<description>
+			salario: 2.2 casamentos: 21 matriculas: 1055
+		</description>
+		<Point>
+			<coordinates>-49.421347,-22.663443</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>castilho</name>
+		<description>
+			salario: 3.7 casamentos: 137 matriculas: 3516
+		</description>
+		<Point>
+			<coordinates>-51.595920,-20.896641</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>tarabai</name>
+		<description>
+			salario: 1.8 casamentos: 44 matriculas: 1505
+		</description>
+		<Point>
+			<coordinates>-51.622949,-22.363455</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>quintana</name>
+		<description>
+			salario: 2.6 casamentos: 21 matriculas: 1110
+		</description>
+		<Point>
+			<coordinates>-50.384810,-22.077636</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>guaratinguetá</name>
+		<description>
+			salario: 3.4 casamentos: 765 matriculas: 23184
+		</description>
+		<Point>
+			<coordinates>-45.234803,-22.813437</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>barra bonita</name>
+		<description>
+			salario: 2.5 casamentos: 240 matriculas: 6199
+		</description>
+		<Point>
+			<coordinates>-48.544350,-22.479260</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>guaraçaí</name>
+		<description>
+			salario: 2.1 casamentos: 41 matriculas: 1278
+		</description>
+		<Point>
+			<coordinates>-51.300545,-21.071890</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>palmital</name>
+		<description>
+			salario: 2.4 casamentos: 93 matriculas: 3972
+		</description>
+		<Point>
+			<coordinates>-50.229279,-22.821145</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>agudos</name>
+		<description>
+			salario: 2.7 casamentos: 241 matriculas: 7375
+		</description>
+		<Point>
+			<coordinates>-49.118330,-22.561068</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>campos do jordão</name>
+		<description>
+			salario: 2.3 casamentos: 304 matriculas: 11164
+		</description>
+		<Point>
+			<coordinates>-45.538116,-22.693031</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>jaborandi</name>
+		<description>
+			salario: 2.1 casamentos: 61 matriculas: 1135
+		</description>
+		<Point>
+			<coordinates>-48.422870,-20.656917</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>são carlos</name>
+		<description>
+			salario: 3.5 casamentos: 1695 matriculas: 42476
+		</description>
+		<Point>
+			<coordinates>-47.905373,-21.879237</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>mirassolândia</name>
+		<description>
+			salario: 2.0 casamentos: 27 matriculas: 766
+		</description>
+		<Point>
+			<coordinates>-49.483654,-20.595733</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>bilac</name>
+		<description>
+			salario: 2.0 casamentos: 56 matriculas: 1189
+		</description>
+		<Point>
+			<coordinates>-50.485799,-21.415627</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>vera cruz</name>
+		<description>
+			salario: 2.3 casamentos: 54 matriculas: 2037
+		</description>
+		<Point>
+			<coordinates>-49.827980,-22.227831</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>quadra</name>
+		<description>
+			salario: 2.5 casamentos: 7 matriculas: 792
+		</description>
+		<Point>
+			<coordinates>-48.044232,-23.302951</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>sumaré</name>
+		<description>
+			salario: 4.5 casamentos: 1788 matriculas: 51510
+		</description>
+		<Point>
+			<coordinates>-47.261677,-22.847472</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>tabapuã</name>
+		<description>
+			salario: 2.1 casamentos: 92 matriculas: 1918
+		</description>
+		<Point>
+			<coordinates>-49.017894,-20.938362</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>dois córregos</name>
+		<description>
+			salario: 2.3 casamentos: 124 matriculas: 4977
+		</description>
+		<Point>
+			<coordinates>-48.361708,-22.403104</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>santa clara d`oeste</name>
+		<description>
+			salario: 2.7 casamentos: 7 matriculas: 361
+		</description>
+		<Point>
+			<coordinates>0.000000,0.000000</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>caçapava</name>
+		<description>
+			salario: 3.7 casamentos: 602 matriculas: 18186
+		</description>
+		<Point>
+			<coordinates>-45.717350,-23.103697</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>são luís do paraitinga</name>
+		<description>
+			salario: 2.2 casamentos: 68 matriculas: 2279
+		</description>
+		<Point>
+			<coordinates>-45.247187,-23.240996</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>são bento do sapucaí</name>
+		<description>
+			salario: 2.0 casamentos: 67 matriculas: 2041
+		</description>
+		<Point>
+			<coordinates>-45.687642,-22.680494</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>potim</name>
+		<description>
+			salario: 2.4 casamentos: 82 matriculas: 3211
+		</description>
+		<Point>
+			<coordinates>-45.300859,-22.822789</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>urupês</name>
+		<description>
+			salario: 2.0 casamentos: 75 matriculas: 2310
+		</description>
+		<Point>
+			<coordinates>-49.270464,-21.219467</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>sandovalina</name>
+		<description>
+			salario: 3.3 casamentos: 20 matriculas: 896
+		</description>
+		<Point>
+			<coordinates>-51.870151,-22.467305</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>itapeva</name>
+		<description>
+			salario: 2.2 casamentos: 909 matriculas: 21383
+		</description>
+		<Point>
+			<coordinates>-48.874203,-23.896328</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>guareí</name>
+		<description>
+			salario: 2.0 casamentos: 65 matriculas: 2379
+		</description>
+		<Point>
+			<coordinates>-48.217757,-23.376518</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>álvaro de carvalho</name>
+		<description>
+			salario: 2.2 casamentos: 16 matriculas: 765
+		</description>
+		<Point>
+			<coordinates>-49.742226,-22.083392</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>igaraçu do tietê</name>
+		<description>
+			salario: 2.2 casamentos: 229 matriculas: 4328
+		</description>
+		<Point>
+			<coordinates>-48.572469,-22.543411</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>divinolândia</name>
+		<description>
+			salario: 2.2 casamentos: 60 matriculas: 2047
+		</description>
+		<Point>
+			<coordinates>-46.705319,-21.669235</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>juquiá</name>
+		<description>
+			salario: 2.3 casamentos: 131 matriculas: 4874
+		</description>
+		<Point>
+			<coordinates>-47.640353,-24.216206</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>coroados</name>
+		<description>
+			salario: 2.1 casamentos: 18 matriculas: 932
+		</description>
+		<Point>
+			<coordinates>-50.323950,-21.362771</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>santo antônio de posse</name>
+		<description>
+			salario: 2.6 casamentos: 165 matriculas: 4459
+		</description>
+		<Point>
+			<coordinates>-46.955917,-22.613459</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>taquaral</name>
+		<description>
+			salario: 1.7 casamentos: 15 matriculas: 500
+		</description>
+		<Point>
+			<coordinates>-48.388775,-21.067699</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>suzanápolis</name>
+		<description>
+			salario: 2.9 casamentos: 14 matriculas: 679
+		</description>
+		<Point>
+			<coordinates>-51.097909,-20.467940</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ubarana</name>
+		<description>
+			salario: 2.3 casamentos: 29 matriculas: 1233
+		</description>
+		<Point>
+			<coordinates>-49.758081,-21.216670</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>santa lúcia</name>
+		<description>
+			salario: 2.2 casamentos: 39 matriculas: 1785
+		</description>
+		<Point>
+			<coordinates>-48.045162,-21.666356</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>zacarias</name>
+		<description>
+			salario: 2.6 casamentos: 11 matriculas: 438
+		</description>
+		<Point>
+			<coordinates>-50.054959,-21.112058</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>sagres</name>
+		<description>
+			salario: 1.7 casamentos: 3 matriculas: 485
+		</description>
+		<Point>
+			<coordinates>-50.993916,-21.863475</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>paulínia</name>
+		<description>
+			salario: 5.6 casamentos: 572 matriculas: 19075
+		</description>
+		<Point>
+			<coordinates>-47.138689,-22.748492</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>santa cruz do rio pardo</name>
+		<description>
+			salario: 2.2 casamentos: 286 matriculas: 8678
+		</description>
+		<Point>
+			<coordinates>-49.574228,-22.760998</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>rincão</name>
+		<description>
+			salario: 2.2 casamentos: 78 matriculas: 2232
+		</description>
+		<Point>
+			<coordinates>-48.014780,-21.576067</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>nova campina</name>
+		<description>
+			salario: 2.9 casamentos: 45 matriculas: 2410
+		</description>
+		<Point>
+			<coordinates>-48.983231,-24.204368</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>saltinho</name>
+		<description>
+			salario: 2.8 casamentos: 63 matriculas: 1391
+		</description>
+		<Point>
+			<coordinates>-47.735334,-22.866309</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>santa cruz da esperança</name>
+		<description>
+			salario: 2.0 casamentos: 13 matriculas: 446
+		</description>
+		<Point>
+			<coordinates>-47.442471,-21.286607</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>miracatu</name>
+		<description>
+			salario: 2.3 casamentos: 179 matriculas: 5273
+		</description>
+		<Point>
+			<coordinates>-47.359090,-24.193508</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>araraquara</name>
+		<description>
+			salario: 2.9 casamentos: 1483 matriculas: 38290
+		</description>
+		<Point>
+			<coordinates>-48.171260,-21.755866</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>aramina</name>
+		<description>
+			salario: 2.0 casamentos: 52 matriculas: 952
+		</description>
+		<Point>
+			<coordinates>-47.818177,-20.156642</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>cunha</name>
+		<description>
+			salario: 2.1 casamentos: 123 matriculas: 4233
+		</description>
+		<Point>
+			<coordinates>-44.893975,-23.056266</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ariranha</name>
+		<description>
+			salario: 3.8 casamentos: 72 matriculas: 1589
+		</description>
+		<Point>
+			<coordinates>-48.776607,-21.177564</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>parapuã</name>
+		<description>
+			salario: 3.1 casamentos: 58 matriculas: 1777
+		</description>
+		<Point>
+			<coordinates>-50.836156,-21.828991</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>restinga</name>
+		<description>
+			salario: 2.1 casamentos: 30 matriculas: 1745
+		</description>
+		<Point>
+			<coordinates>-47.500277,-20.648151</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>bento de abreu</name>
+		<description>
+			salario: 2.6 casamentos: 17 matriculas: 459
+		</description>
+		<Point>
+			<coordinates>-50.861233,-21.315491</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>poloni</name>
+		<description>
+			salario: 2.1 casamentos: 30 matriculas: 909
+		</description>
+		<Point>
+			<coordinates>-49.834646,-20.743608</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>santa ernestina</name>
+		<description>
+			salario: 2.1 casamentos: 36 matriculas: 1180
+		</description>
+		<Point>
+			<coordinates>-48.373247,-21.445353</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>santa branca</name>
+		<description>
+			salario: 2.8 casamentos: 82 matriculas: 2739
+		</description>
+		<Point>
+			<coordinates>-45.870684,-23.418115</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>lagoinha</name>
+		<description>
+			salario: 2.1 casamentos: 24 matriculas: 1069
+		</description>
+		<Point>
+			<coordinates>-45.219133,-23.098210</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>guarani d`oeste</name>
+		<description>
+			salario: 2.4 casamentos: 14 matriculas: 337
+		</description>
+		<Point>
+			<coordinates>0.000000,0.000000</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>salto grande</name>
+		<description>
+			salario: 2.3 casamentos: 49 matriculas: 1727
+		</description>
+		<Point>
+			<coordinates>-49.967419,-22.874301</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>pedrinhas paulista</name>
+		<description>
+			salario: 2.2 casamentos: 22 matriculas: 515
+		</description>
+		<Point>
+			<coordinates>-50.821140,-22.813602</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>são simão</name>
+		<description>
+			salario: 2.1 casamentos: 79 matriculas: 3189
+		</description>
+		<Point>
+			<coordinates>-47.604759,-21.466094</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>nova independência</name>
+		<description>
+			salario: 3.2 casamentos: 22 matriculas: 779
+		</description>
+		<Point>
+			<coordinates>-51.522848,-21.140994</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>várzea paulista</name>
+		<description>
+			salario: 3.5 casamentos: 718 matriculas: 19332
+		</description>
+		<Point>
+			<coordinates>-46.826003,-23.221260</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>reginópolis</name>
+		<description>
+			salario: 2.0 casamentos: 44 matriculas: 988
+		</description>
+		<Point>
+			<coordinates>-49.183144,-21.855521</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>itapura</name>
+		<description>
+			salario: 2.2 casamentos: 21 matriculas: 912
+		</description>
+		<Point>
+			<coordinates>-51.458754,-20.577584</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>lucélia</name>
+		<description>
+			salario: 1.9 casamentos: 71 matriculas: 3273
+		</description>
+		<Point>
+			<coordinates>-51.005520,-21.633898</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>batatais</name>
+		<description>
+			salario: 2.6 casamentos: 326 matriculas: 11017
+		</description>
+		<Point>
+			<coordinates>-47.596706,-20.865679</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>novo horizonte</name>
+		<description>
+			salario: 2.7 casamentos: 242 matriculas: 6821
+		</description>
+		<Point>
+			<coordinates>-49.307328,-21.479150</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>pariquera-açu</name>
+		<description>
+			salario: 3.2 casamentos: 112 matriculas: 4592
+		</description>
+		<Point>
+			<coordinates>-47.846066,-24.682733</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>fernão</name>
+		<description>
+			salario: 2.2 casamentos: 6 matriculas: 313
+		</description>
+		<Point>
+			<coordinates>-49.539137,-22.376457</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>guatapará</name>
+		<description>
+			salario: 2.9 casamentos: 36 matriculas: 1620
+		</description>
+		<Point>
+			<coordinates>-47.998425,-21.451782</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>itatinga</name>
+		<description>
+			salario: 2.2 casamentos: 125 matriculas: 4152
+		</description>
+		<Point>
+			<coordinates>-48.603246,-23.142423</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>barretos</name>
+		<description>
+			salario: 2.5 casamentos: 852 matriculas: 19928
+		</description>
+		<Point>
+			<coordinates>-48.619519,-20.518335</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>taboão da serra</name>
+		<description>
+			salario: 3.1 casamentos: 1272 matriculas: 58327
+		</description>
+		<Point>
+			<coordinates>-46.785412,-23.621054</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>pedranópolis</name>
+		<description>
+			salario: 2.0 casamentos: 14 matriculas: 423
+		</description>
+		<Point>
+			<coordinates>-50.126298,-20.203031</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>barbosa</name>
+		<description>
+			salario: 1.8 casamentos: 72 matriculas: 1382
+		</description>
+		<Point>
+			<coordinates>-49.922656,-21.290537</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>capão bonito</name>
+		<description>
+			salario: 2.1 casamentos: 235 matriculas: 10542
+		</description>
+		<Point>
+			<coordinates>-48.269819,-24.053520</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>tatuí</name>
+		<description>
+			salario: 2.7 casamentos: 811 matriculas: 24314
+		</description>
+		<Point>
+			<coordinates>-47.903956,-23.355520</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>pardinho</name>
+		<description>
+			salario: 1.9 casamentos: 25 matriculas: 1372
+		</description>
+		<Point>
+			<coordinates>-48.389612,-23.099570</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ipaussu</name>
+		<description>
+			salario: 2.1 casamentos: 85 matriculas: 3322
+		</description>
+		<Point>
+			<coordinates>-49.606050,-23.063101</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>vargem grande paulista</name>
+		<description>
+			salario: 2.9 casamentos: 356 matriculas: 10786
+		</description>
+		<Point>
+			<coordinates>-47.020242,-23.624385</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>serra negra</name>
+		<description>
+			salario: 1.9 casamentos: 146 matriculas: 4622
+		</description>
+		<Point>
+			<coordinates>-46.699493,-22.584870</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>monções</name>
+		<description>
+			salario: 2.9 casamentos: 8 matriculas: 328
+		</description>
+		<Point>
+			<coordinates>-50.093932,-20.875513</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>penápolis</name>
+		<description>
+			salario: 2.3 casamentos: 324 matriculas: 11000
+		</description>
+		<Point>
+			<coordinates>-50.128762,-21.392787</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>nova guataporanga</name>
+		<description>
+			salario: 2.0 casamentos: 6 matriculas: 390
+		</description>
+		<Point>
+			<coordinates>-51.648312,-21.320229</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>santos</name>
+		<description>
+			salario: 3.8 casamentos: 2208 matriculas: 70368
+		</description>
+		<Point>
+			<coordinates>-46.290229,-23.864250</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>piquerobi</name>
+		<description>
+			salario: 1.9 casamentos: 12 matriculas: 604
+		</description>
+		<Point>
+			<coordinates>-51.751447,-21.844878</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>parisi</name>
+		<description>
+			salario: 2.5 casamentos: 10 matriculas: 401
+		</description>
+		<Point>
+			<coordinates>-50.040192,-20.258940</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>fernandópolis</name>
+		<description>
+			salario: 2.2 casamentos: 493 matriculas: 11560
+		</description>
+		<Point>
+			<coordinates>-50.267003,-20.283209</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>auriflama</name>
+		<description>
+			salario: 1.7 casamentos: 94 matriculas: 2355
+		</description>
+		<Point>
+			<coordinates>-50.580915,-20.639981</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>oriente</name>
+		<description>
+			salario: 2.2 casamentos: 31 matriculas: 961
+		</description>
+		<Point>
+			<coordinates>-50.089082,-22.143787</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>santa salete</name>
+		<description>
+			salario: 2.2 casamentos: 10 matriculas: 275
+		</description>
+		<Point>
+			<coordinates>-50.726628,-20.265267</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>nova castilho</name>
+		<description>
+			salario: 2.7 casamentos: 6 matriculas: 229
+		</description>
+		<Point>
+			<coordinates>-50.348838,-20.782161</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>meridiano</name>
+		<description>
+			salario: 2.5 casamentos: 28 matriculas: 709
+		</description>
+		<Point>
+			<coordinates>-50.195962,-20.403589</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ituverava</name>
+		<description>
+			salario: 2.2 casamentos: 225 matriculas: 7549
+		</description>
+		<Point>
+			<coordinates>-47.827742,-20.318668</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>pirapozinho</name>
+		<description>
+			salario: 2.1 casamentos: 111 matriculas: 4893
+		</description>
+		<Point>
+			<coordinates>-51.651610,-22.434054</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>adamantina</name>
+		<description>
+			salario: 2.2 casamentos: 202 matriculas: 6030
+		</description>
+		<Point>
+			<coordinates>-51.071410,-21.582623</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>dobrada</name>
+		<description>
+			salario: 2.1 casamentos: 40 matriculas: 1589
+		</description>
+		<Point>
+			<coordinates>-48.354713,-21.514965</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>platina</name>
+		<description>
+			salario: 2.5 casamentos: 23 matriculas: 697
+		</description>
+		<Point>
+			<coordinates>-50.219993,-22.620133</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>três fronteiras</name>
+		<description>
+			salario: 2.7 casamentos: 37 matriculas: 873
+		</description>
+		<Point>
+			<coordinates>-50.876636,-20.276684</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>taiúva</name>
+		<description>
+			salario: 2.2 casamentos: 20 matriculas: 822
+		</description>
+		<Point>
+			<coordinates>-48.418743,-21.141178</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>guaiçara</name>
+		<description>
+			salario: 2.2 casamentos: 62 matriculas: 2118
+		</description>
+		<Point>
+			<coordinates>-49.773376,-21.551399</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>campinas</name>
+		<description>
+			salario: 4.3 casamentos: 7397 matriculas: 200519
+		</description>
+		<Point>
+			<coordinates>-47.031035,-22.895222</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>cabreúva</name>
+		<description>
+			salario: 3.6 casamentos: 311 matriculas: 10765
+		</description>
+		<Point>
+			<coordinates>-47.075069,-23.313542</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>pitangueiras</name>
+		<description>
+			salario: 2.7 casamentos: 235 matriculas: 8039
+		</description>
+		<Point>
+			<coordinates>-48.278758,-21.002892</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>morungaba</name>
+		<description>
+			salario: 1.9 casamentos: 92 matriculas: 2672
+		</description>
+		<Point>
+			<coordinates>-46.785597,-22.887788</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>itaí</name>
+		<description>
+			salario: 2.5 casamentos: 73 matriculas: 4895
+		</description>
+		<Point>
+			<coordinates>-49.023211,-23.474105</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>nantes</name>
+		<description>
+			salario: 2.8 casamentos: 19 matriculas: 644
+		</description>
+		<Point>
+			<coordinates>-51.199089,-22.600696</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>itapuí</name>
+		<description>
+			salario: 2.1 casamentos: 52 matriculas: 2351
+		</description>
+		<Point>
+			<coordinates>-48.700627,-22.249986</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>louveira</name>
+		<description>
+			salario: 3.5 casamentos: 289 matriculas: 7627
+		</description>
+		<Point>
+			<coordinates>-46.932241,-23.082972</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>turiúba</name>
+		<description>
+			salario: 2.4 casamentos: 9 matriculas: 303
+		</description>
+		<Point>
+			<coordinates>-50.102593,-20.937686</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ouroeste</name>
+		<description>
+			salario: 3.0 casamentos: 78 matriculas: 1710
+		</description>
+		<Point>
+			<coordinates>-50.406530,-19.922519</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>tapiratiba</name>
+		<description>
+			salario: 2.5 casamentos: 65 matriculas: 2370
+		</description>
+		<Point>
+			<coordinates>-46.726012,-21.456106</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>jarinu</name>
+		<description>
+			salario: 2.8 casamentos: 124 matriculas: 6160
+		</description>
+		<Point>
+			<coordinates>-46.731139,-23.096149</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>américo brasiliense</name>
+		<description>
+			salario: 3.1 casamentos: 221 matriculas: 7577
+		</description>
+		<Point>
+			<coordinates>-48.028810,-21.724080</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>união paulista</name>
+		<description>
+			salario: 2.6 casamentos: 10 matriculas: 352
+		</description>
+		<Point>
+			<coordinates>-49.895056,-20.888967</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>rafard</name>
+		<description>
+			salario: 3.0 casamentos: 60 matriculas: 1879
+		</description>
+		<Point>
+			<coordinates>-47.585741,-23.043822</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>assis</name>
+		<description>
+			salario: 2.5 casamentos: 586 matriculas: 17096
+		</description>
+		<Point>
+			<coordinates>-50.437259,-22.578308</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>presidente bernardes</name>
+		<description>
+			salario: 1.8 casamentos: 70 matriculas: 2136
+		</description>
+		<Point>
+			<coordinates>-51.629187,-22.106157</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>gavião peixoto</name>
+		<description>
+			salario: 5.3 casamentos: 43 matriculas: 984
+		</description>
+		<Point>
+			<coordinates>-48.463634,-21.780246</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>nova luzitânia</name>
+		<description>
+			salario: 2.3 casamentos: 21 matriculas: 663
+		</description>
+		<Point>
+			<coordinates>-50.250214,-20.870408</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ubatuba</name>
+		<description>
+			salario: 2.1 casamentos: 512 matriculas: 18443
+		</description>
+		<Point>
+			<coordinates>-45.002371,-23.397468</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>nhandeara</name>
+		<description>
+			salario: 2.4 casamentos: 56 matriculas: 1675
+		</description>
+		<Point>
+			<coordinates>-50.026902,-20.672722</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>bananal</name>
+		<description>
+			salario: 2.0 casamentos: 70 matriculas: 2104
+		</description>
+		<Point>
+			<coordinates>-44.334929,-22.736610</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>torre de pedra</name>
+		<description>
+			salario: 2.2 casamentos: 14 matriculas: 518
+		</description>
+		<Point>
+			<coordinates>-48.207787,-23.249706</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>bragança paulista</name>
+		<description>
+			salario: 2.8 casamentos: 839 matriculas: 31540
+		</description>
+		<Point>
+			<coordinates>-46.562882,-22.936635</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>mairinque</name>
+		<description>
+			salario: 2.9 casamentos: 303 matriculas: 10932
+		</description>
+		<Point>
+			<coordinates>-47.242075,-23.518807</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>aspásia</name>
+		<description>
+			salario: 1.9 casamentos: 9 matriculas: 302
+		</description>
+		<Point>
+			<coordinates>-50.731647,-20.184016</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>santa rita do passa quatro</name>
+		<description>
+			salario: 2.5 casamentos: 161 matriculas: 4312
+		</description>
+		<Point>
+			<coordinates>-47.508700,-21.677489</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>rifaina</name>
+		<description>
+			salario: 2.2 casamentos: 22 matriculas: 709
+		</description>
+		<Point>
+			<coordinates>-47.439210,-20.065764</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>santo antônio do aracanguá</name>
+		<description>
+			salario: 2.4 casamentos: 43 matriculas: 1495
+		</description>
+		<Point>
+			<coordinates>-50.567857,-20.867960</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>eldorado</name>
+		<description>
+			salario: 2.3 casamentos: 100 matriculas: 4011
+		</description>
+		<Point>
+			<coordinates>-48.233006,-24.500625</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>dirce reis</name>
+		<description>
+			salario: 2.9 casamentos: 11 matriculas: 268
+		</description>
+		<Point>
+			<coordinates>-50.623857,-20.446482</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>cajobi</name>
+		<description>
+			salario: 2.2 casamentos: 49 matriculas: 1687
+		</description>
+		<Point>
+			<coordinates>-48.846598,-20.875269</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>taquarituba</name>
+		<description>
+			salario: 2.0 casamentos: 150 matriculas: 4731
+		</description>
+		<Point>
+			<coordinates>-49.239410,-23.534184</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>itaquaquecetuba</name>
+		<description>
+			salario: 2.7 casamentos: 1601 matriculas: 81473
+		</description>
+		<Point>
+			<coordinates>-46.333897,-23.464151</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>são francisco</name>
+		<description>
+			salario: 2.5 casamentos: 27 matriculas: 482
+		</description>
+		<Point>
+			<coordinates>-50.677391,-20.373042</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>irapuru</name>
+		<description>
+			salario: 2.4 casamentos: 30 matriculas: 1132
+		</description>
+		<Point>
+			<coordinates>-51.351636,-21.468492</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>aparecida</name>
+		<description>
+			salario: 2.1 casamentos: 258 matriculas: 7596
+		</description>
+		<Point>
+			<coordinates>-45.235049,-22.908930</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>jardinópolis</name>
+		<description>
+			salario: 2.7 casamentos: 223 matriculas: 8110
+		</description>
+		<Point>
+			<coordinates>-47.837000,-21.001412</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>severínia</name>
+		<description>
+			salario: 2.6 casamentos: 110 matriculas: 3360
+		</description>
+		<Point>
+			<coordinates>-48.804625,-20.785001</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>marapoama</name>
+		<description>
+			salario: 2.9 casamentos: 14 matriculas: 452
+		</description>
+		<Point>
+			<coordinates>-49.146380,-21.255275</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>indaiatuba</name>
+		<description>
+			salario: 3.6 casamentos: 1410 matriculas: 41723
+		</description>
+		<Point>
+			<coordinates>-47.194621,-23.111942</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>mairiporã</name>
+		<description>
+			salario: 2.5 casamentos: 650 matriculas: 18100
+		</description>
+		<Point>
+			<coordinates>-46.544258,-23.328425</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>glicério</name>
+		<description>
+			salario: 1.7 casamentos: 23 matriculas: 880
+		</description>
+		<Point>
+			<coordinates>-50.214257,-21.315494</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>cosmorama</name>
+		<description>
+			salario: 2.5 casamentos: 44 matriculas: 1221
+		</description>
+		<Point>
+			<coordinates>-49.768455,-20.425716</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>brotas</name>
+		<description>
+			salario: 2.5 casamentos: 127 matriculas: 4555
+		</description>
+		<Point>
+			<coordinates>-48.104724,-22.290075</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>santa gertrudes</name>
+		<description>
+			salario: 3.3 casamentos: 151 matriculas: 4880
+		</description>
+		<Point>
+			<coordinates>-47.521145,-22.473930</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>pirajuí</name>
+		<description>
+			salario: 2.1 casamentos: 129 matriculas: 3706
+		</description>
+		<Point>
+			<coordinates>-49.439638,-21.905086</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>balbinos</name>
+		<description>
+			salario: 1.8 casamentos: 11 matriculas: 243
+		</description>
+		<Point>
+			<coordinates>-49.327715,-21.895408</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>são pedro do turvo</name>
+		<description>
+			salario: 2.1 casamentos: 59 matriculas: 1520
+		</description>
+		<Point>
+			<coordinates>-49.748538,-22.688807</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ourinhos</name>
+		<description>
+			salario: 2.4 casamentos: 641 matriculas: 20622
+		</description>
+		<Point>
+			<coordinates>-49.867592,-22.955739</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>clementina</name>
+		<description>
+			salario: 3.1 casamentos: 38 matriculas: 1438
+		</description>
+		<Point>
+			<coordinates>-50.471014,-21.575229</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>jaboticabal</name>
+		<description>
+			salario: 3.1 casamentos: 508 matriculas: 13776
+		</description>
+		<Point>
+			<coordinates>-48.293036,-21.209990</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>itapira</name>
+		<description>
+			salario: 2.9 casamentos: 395 matriculas: 12363
+		</description>
+		<Point>
+			<coordinates>-46.750471,-22.436111</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>tapiraí</name>
+		<description>
+			salario: 2.4 casamentos: 58 matriculas: 1959
+		</description>
+		<Point>
+			<coordinates>-47.630967,-23.998605</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>salmourão</name>
+		<description>
+			salario: 1.7 casamentos: 43 matriculas: 988
+		</description>
+		<Point>
+			<coordinates>-50.874276,-21.587563</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>osvaldo cruz</name>
+		<description>
+			salario: 2.0 casamentos: 189 matriculas: 5137
+		</description>
+		<Point>
+			<coordinates>-50.864839,-21.706021</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>santa fé do sul</name>
+		<description>
+			salario: 2.2 casamentos: 318 matriculas: 5231
+		</description>
+		<Point>
+			<coordinates>-50.944371,-20.266493</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>avaí</name>
+		<description>
+			salario: 2.0 casamentos: 37 matriculas: 1077
+		</description>
+		<Point>
+			<coordinates>-49.309875,-22.194361</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>nova granada</name>
+		<description>
+			salario: 2.4 casamentos: 86 matriculas: 3836
+		</description>
+		<Point>
+			<coordinates>-49.333556,-20.454776</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>martinópolis</name>
+		<description>
+			salario: 2.2 casamentos: 146 matriculas: 4462
+		</description>
+		<Point>
+			<coordinates>-51.105596,-22.200633</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>borebi</name>
+		<description>
+			salario: 2.3 casamentos: 21 matriculas: 644
+		</description>
+		<Point>
+			<coordinates>-48.992512,-22.685075</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>piedade</name>
+		<description>
+			salario: 2.4 casamentos: 374 matriculas: 11126
+		</description>
+		<Point>
+			<coordinates>-47.433861,-23.801539</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>santa adélia</name>
+		<description>
+			salario: 2.9 casamentos: 74 matriculas: 2697
+		</description>
+		<Point>
+			<coordinates>-48.827389,-21.321039</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>cananéia</name>
+		<description>
+			salario: 2.2 casamentos: 55 matriculas: 3006
+		</description>
+		<Point>
+			<coordinates>-47.987028,-25.034333</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>guarulhos</name>
+		<description>
+			salario: 3.7 casamentos: 8375 matriculas: 298420
+		</description>
+		<Point>
+			<coordinates>-46.453279,-23.391953</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>casa branca</name>
+		<description>
+			salario: 2.4 casamentos: 146 matriculas: 5209
+		</description>
+		<Point>
+			<coordinates>-47.097769,-21.789275</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>mineiros do tietê</name>
+		<description>
+			salario: 2.0 casamentos: 69 matriculas: 2442
+		</description>
+		<Point>
+			<coordinates>-48.437524,-22.465731</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>pacaembu</name>
+		<description>
+			salario: 2.2 casamentos: 75 matriculas: 1905
+		</description>
+		<Point>
+			<coordinates>-51.280881,-21.497083</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>são sebastião</name>
+		<description>
+			salario: 3.7 casamentos: 557 matriculas: 18174
+		</description>
+		<Point>
+			<coordinates>-45.619150,-23.759962</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>buri</name>
+		<description>
+			salario: 2.0 casamentos: 158 matriculas: 4498
+		</description>
+		<Point>
+			<coordinates>-48.564845,-23.740098</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>são manuel</name>
+		<description>
+			salario: 2.4 casamentos: 277 matriculas: 7862
+		</description>
+		<Point>
+			<coordinates>-48.547405,-22.697956</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>guarantã</name>
+		<description>
+			salario: 2.0 casamentos: 65 matriculas: 1394
+		</description>
+		<Point>
+			<coordinates>-49.579402,-21.913513</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>jaguariúna</name>
+		<description>
+			salario: 4.0 casamentos: 309 matriculas: 9470
+		</description>
+		<Point>
+			<coordinates>-47.016767,-22.679454</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>pontal</name>
+		<description>
+			salario: 2.7 casamentos: 225 matriculas: 8738
+		</description>
+		<Point>
+			<coordinates>-48.059372,-20.990671</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>morro agudo</name>
+		<description>
+			salario: 2.8 casamentos: 139 matriculas: 5961
+		</description>
+		<Point>
+			<coordinates>-48.172119,-20.690597</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>paraíso</name>
+		<description>
+			salario: 2.4 casamentos: 51 matriculas: 1161
+		</description>
+		<Point>
+			<coordinates>-48.767578,-21.016672</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>dumont</name>
+		<description>
+			salario: 2.3 casamentos: 29 matriculas: 1682
+		</description>
+		<Point>
+			<coordinates>-47.979796,-21.245802</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ocauçu</name>
+		<description>
+			salario: 2.3 casamentos: 9 matriculas: 762
+		</description>
+		<Point>
+			<coordinates>-49.955750,-22.434215</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>catiguá</name>
+		<description>
+			salario: 2.5 casamentos: 83 matriculas: 1255
+		</description>
+		<Point>
+			<coordinates>-49.048610,-21.069035</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>vargem</name>
+		<description>
+			salario: 2.1 casamentos: 65 matriculas: 1973
+		</description>
+		<Point>
+			<coordinates>-46.415250,-22.894266</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>alto alegre</name>
+		<description>
+			salario: 2.2 casamentos: 24 matriculas: 660
+		</description>
+		<Point>
+			<coordinates>-50.183179,-21.614834</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>santo antônio do pinhal</name>
+		<description>
+			salario: 1.9 casamentos: 37 matriculas: 1784
+		</description>
+		<Point>
+			<coordinates>-45.692498,-22.829216</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>itaberá</name>
+		<description>
+			salario: 2.2 casamentos: 91 matriculas: 3713
+		</description>
+		<Point>
+			<coordinates>-49.145722,-23.905807</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>artur nogueira</name>
+		<description>
+			salario: 2.4 casamentos: 339 matriculas: 9323
+		</description>
+		<Point>
+			<coordinates>-47.139472,-22.556066</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>mariápolis</name>
+		<description>
+			salario: 2.1 casamentos: 32 matriculas: 616
+		</description>
+		<Point>
+			<coordinates>-51.170654,-21.778557</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>rio das pedras</name>
+		<description>
+			salario: 3.2 casamentos: 254 matriculas: 6154
+		</description>
+		<Point>
+			<coordinates>-47.603647,-22.845869</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>novais</name>
+		<description>
+			salario: 2.6 casamentos: 30 matriculas: 984
+		</description>
+		<Point>
+			<coordinates>-48.910037,-20.986609</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>regente feijó</name>
+		<description>
+			salario: 2.4 casamentos: 128 matriculas: 3620
+		</description>
+		<Point>
+			<coordinates>-51.302322,-22.199858</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>águas de são pedro</name>
+		<description>
+			salario: 2.4 casamentos: 27 matriculas: 913
+		</description>
+		<Point>
+			<coordinates>-47.875462,-22.601109</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>mongaguá</name>
+		<description>
+			salario: 2.3 casamentos: 270 matriculas: 12097
+		</description>
+		<Point>
+			<coordinates>-46.668828,-24.069753</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>avanhandava</name>
+		<description>
+			salario: 2.5 casamentos: 86 matriculas: 2187
+		</description>
+		<Point>
+			<coordinates>-49.952027,-21.467759</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ibiúna</name>
+		<description>
+			salario: 2.6 casamentos: 484 matriculas: 16736
+		</description>
+		<Point>
+			<coordinates>-47.186305,-23.810556</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>joão ramalho</name>
+		<description>
+			salario: 2.6 casamentos: 26 matriculas: 796
+		</description>
+		<Point>
+			<coordinates>-50.819291,-22.233249</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>águas da prata</name>
+		<description>
+			salario: 2.5 casamentos: 62 matriculas: 1062
+		</description>
+		<Point>
+			<coordinates>-46.685501,-21.917973</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>sebastianópolis do sul</name>
+		<description>
+			salario: 2.6 casamentos: 15 matriculas: 496
+		</description>
+		<Point>
+			<coordinates>-49.907170,-20.634438</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>tietê</name>
+		<description>
+			salario: 2.2 casamentos: 227 matriculas: 7334
+		</description>
+		<Point>
+			<coordinates>-47.705043,-23.050069</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>motuca</name>
+		<description>
+			salario: 2.1 casamentos: 33 matriculas: 923
+		</description>
+		<Point>
+			<coordinates>-48.168855,-21.519706</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>jacareí</name>
+		<description>
+			salario: 3.9 casamentos: 1391 matriculas: 44626
+		</description>
+		<Point>
+			<coordinates>-45.973632,-23.295995</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>rosana</name>
+		<description>
+			salario: 2.7 casamentos: 148 matriculas: 4405
+		</description>
+		<Point>
+			<coordinates>-52.860845,-22.480795</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>uchoa</name>
+		<description>
+			salario: 2.8 casamentos: 49 matriculas: 1653
+		</description>
+		<Point>
+			<coordinates>-49.167859,-20.930549</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>murutinga do sul</name>
+		<description>
+			salario: 2.0 casamentos: 20 matriculas: 652
+		</description>
+		<Point>
+			<coordinates>-51.304476,-20.996757</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>monte castelo</name>
+		<description>
+			salario: 2.2 casamentos: 9 matriculas: 704
+		</description>
+		<Point>
+			<coordinates>-51.571341,-21.242134</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>jandira</name>
+		<description>
+			salario: 3.4 casamentos: 807 matriculas: 23596
+		</description>
+		<Point>
+			<coordinates>-46.895466,-23.540883</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>panorama</name>
+		<description>
+			salario: 1.9 casamentos: 99 matriculas: 3189
+		</description>
+		<Point>
+			<coordinates>-51.859572,-21.460687</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>gastão vidigal</name>
+		<description>
+			salario: 2.9 casamentos: 18 matriculas: 760
+		</description>
+		<Point>
+			<coordinates>-50.200387,-20.805826</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>estiva gerbi</name>
+		<description>
+			salario: 2.8 casamentos: 39 matriculas: 2148
+		</description>
+		<Point>
+			<coordinates>-46.940403,-22.239562</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>arandu</name>
+		<description>
+			salario: 1.9 casamentos: 26 matriculas: 1278
+		</description>
+		<Point>
+			<coordinates>-49.062471,-23.175782</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>inúbia paulista</name>
+		<description>
+			salario: 2.3 casamentos: 26 matriculas: 684
+		</description>
+		<Point>
+			<coordinates>-50.962009,-21.727620</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>dourado</name>
+		<description>
+			salario: 2.0 casamentos: 60 matriculas: 1475
+		</description>
+		<Point>
+			<coordinates>-48.345406,-22.121087</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>canas</name>
+		<description>
+			salario: 1.7 casamentos: 24 matriculas: 1133
+		</description>
+		<Point>
+			<coordinates>-45.024948,-22.742953</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>jambeiro</name>
+		<description>
+			salario: 3.5 casamentos: 56 matriculas: 1286
+		</description>
+		<Point>
+			<coordinates>-45.710643,-23.276110</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ribeirão do sul</name>
+		<description>
+			salario: 2.4 casamentos: 37 matriculas: 940
+		</description>
+		<Point>
+			<coordinates>-49.923329,-22.748374</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>capivari</name>
+		<description>
+			salario: 2.6 casamentos: 319 matriculas: 10253
+		</description>
+		<Point>
+			<coordinates>-47.502748,-22.986724</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>lins</name>
+		<description>
+			salario: 2.6 casamentos: 527 matriculas: 13794
+		</description>
+		<Point>
+			<coordinates>-49.694035,-21.646811</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>cosmópolis</name>
+		<description>
+			salario: 2.9 casamentos: 507 matriculas: 11992
+		</description>
+		<Point>
+			<coordinates>-47.185704,-22.652543</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>pedro de toledo</name>
+		<description>
+			salario: 2.3 casamentos: 56 matriculas: 2342
+		</description>
+		<Point>
+			<coordinates>-47.159470,-24.177841</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>pereira barreto</name>
+		<description>
+			salario: 2.9 casamentos: 158 matriculas: 4490
+		</description>
+		<Point>
+			<coordinates>-51.092775,-20.682503</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>monte azul paulista</name>
+		<description>
+			salario: 2.5 casamentos: 112 matriculas: 3305
+		</description>
+		<Point>
+			<coordinates>-48.685615,-20.911724</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>luís antônio</name>
+		<description>
+			salario: 4.4 casamentos: 87 matriculas: 2683
+		</description>
+		<Point>
+			<coordinates>-47.783849,-21.547340</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>iepê</name>
+		<description>
+			salario: 2.3 casamentos: 42 matriculas: 1472
+		</description>
+		<Point>
+			<coordinates>-51.073783,-22.633451</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>guzolândia</name>
+		<description>
+			salario: 2.0 casamentos: 25 matriculas: 864
+		</description>
+		<Point>
+			<coordinates>-50.711450,-20.623090</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>dracena</name>
+		<description>
+			salario: 2.1 casamentos: 343 matriculas: 7364
+		</description>
+		<Point>
+			<coordinates>-51.595886,-21.557107</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>campos novos paulista</name>
+		<description>
+			salario: 2.5 casamentos: 18 matriculas: 986
+		</description>
+		<Point>
+			<coordinates>-50.012497,-22.637378</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>mirandópolis</name>
+		<description>
+			salario: 2.8 casamentos: 167 matriculas: 4304
+		</description>
+		<Point>
+			<coordinates>-51.114949,-21.087058</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>arco-íris</name>
+		<description>
+			salario: 2.0 casamentos: 15 matriculas: 347
+		</description>
+		<Point>
+			<coordinates>-50.422975,-21.768496</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>campina do monte alegre</name>
+		<description>
+			salario: 2.3 casamentos: 29 matriculas: 1378
+		</description>
+		<Point>
+			<coordinates>-48.451652,-23.612512</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>monteiro lobato</name>
+		<description>
+			salario: 2.1 casamentos: 24 matriculas: 1016
+		</description>
+		<Point>
+			<coordinates>-45.799313,-22.937399</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>barueri</name>
+		<description>
+			salario: 4.7 casamentos: 2780 matriculas: 78953
+		</description>
+		<Point>
+			<coordinates>-46.882068,-23.511837</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>pederneiras</name>
+		<description>
+			salario: 3.2 casamentos: 334 matriculas: 9100
+		</description>
+		<Point>
+			<coordinates>-48.879034,-22.289811</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>são vicente</name>
+		<description>
+			salario: 2.6 casamentos: 1940 matriculas: 70447
+		</description>
+		<Point>
+			<coordinates>-46.502734,-23.954883</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>embaúba</name>
+		<description>
+			salario: 2.3 casamentos: 11 matriculas: 423
+		</description>
+		<Point>
+			<coordinates>-48.850743,-20.953902</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>franco da rocha</name>
+		<description>
+			salario: 3.1 casamentos: 750 matriculas: 32922
+		</description>
+		<Point>
+			<coordinates>-46.739086,-23.312894</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>bom jesus dos perdões</name>
+		<description>
+			salario: 2.5 casamentos: 161 matriculas: 4354
+		</description>
+		<Point>
+			<coordinates>-46.477328,-23.173959</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>sales</name>
+		<description>
+			salario: 2.5 casamentos: 31 matriculas: 1049
+		</description>
+		<Point>
+			<coordinates>-49.509979,-21.337599</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>mirassol</name>
+		<description>
+			salario: 2.4 casamentos: 413 matriculas: 10204
+		</description>
+		<Point>
+			<coordinates>-49.507279,-20.828969</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>piacatu</name>
+		<description>
+			salario: 1.8 casamentos: 29 matriculas: 1070
+		</description>
+		<Point>
+			<coordinates>-50.661334,-21.576845</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>macedônia</name>
+		<description>
+			salario: 2.1 casamentos: 8 matriculas: 602
+		</description>
+		<Point>
+			<coordinates>-50.168416,-20.096036</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>tuiuti</name>
+		<description>
+			salario: 2.5 casamentos: 37 matriculas: 1116
+		</description>
+		<Point>
+			<coordinates>-46.691270,-22.831178</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>são joão das duas pontes</name>
+		<description>
+			salario: 2.5 casamentos: 9 matriculas: 499
+		</description>
+		<Point>
+			<coordinates>-50.384929,-20.408523</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>iporanga</name>
+		<description>
+			salario: 1.9 casamentos: 25 matriculas: 1100
+		</description>
+		<Point>
+			<coordinates>-48.578983,-24.489382</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>uru</name>
+		<description>
+			salario: 2.1 casamentos: 8 matriculas: 260
+		</description>
+		<Point>
+			<coordinates>-49.314901,-21.759629</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>limeira</name>
+		<description>
+			salario: 3.1 casamentos: 1928 matriculas: 54268
+		</description>
+		<Point>
+			<coordinates>-47.361763,-22.591697</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>marabá paulista</name>
+		<description>
+			salario: 1.7 casamentos: 22 matriculas: 702
+		</description>
+		<Point>
+			<coordinates>-52.072786,-22.119854</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>taciba</name>
+		<description>
+			salario: 2.5 casamentos: 48 matriculas: 1184
+		</description>
+		<Point>
+			<coordinates>-51.338894,-22.499186</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>altair</name>
+		<description>
+			salario: 2.6 casamentos: 16 matriculas: 743
+		</description>
+		<Point>
+			<coordinates>-49.104795,-20.532942</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>são josé do barreiro</name>
+		<description>
+			salario: 1.9 casamentos: 15 matriculas: 999
+		</description>
+		<Point>
+			<coordinates>-44.588167,-22.754073</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>paulo de faria</name>
+		<description>
+			salario: 2.4 casamentos: 43 matriculas: 1579
+		</description>
+		<Point>
+			<coordinates>-49.434864,-20.074071</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>paraibuna</name>
+		<description>
+			salario: 2.1 casamentos: 87 matriculas: 3656
+		</description>
+		<Point>
+			<coordinates>-45.620590,-23.473972</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>júlio mesquita</name>
+		<description>
+			salario: 1.9 casamentos: 56 matriculas: 998
+		</description>
+		<Point>
+			<coordinates>-49.808306,-21.975918</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>aparecida d`oeste</name>
+		<description>
+			salario: 1.8 casamentos: 22 matriculas: 793
+		</description>
+		<Point>
+			<coordinates>0.000000,0.000000</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>registro</name>
+		<description>
+			salario: 2.4 casamentos: 291 matriculas: 13494
+		</description>
+		<Point>
+			<coordinates>-47.855835,-24.495077</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>paranapuã</name>
+		<description>
+			salario: 2.1 casamentos: 28 matriculas: 754
+		</description>
+		<Point>
+			<coordinates>-50.590121,-20.064153</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>diadema</name>
+		<description>
+			salario: 3.7 casamentos: 3367 matriculas: 92293
+		</description>
+		<Point>
+			<coordinates>-46.614403,-23.698242</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>iperó</name>
+		<description>
+			salario: 3.4 casamentos: 128 matriculas: 5931
+		</description>
+		<Point>
+			<coordinates>-47.639689,-23.405275</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>tremembé</name>
+		<description>
+			salario: 2.7 casamentos: 195 matriculas: 7032
+		</description>
+		<Point>
+			<coordinates>-45.604154,-22.938108</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>santa albertina</name>
+		<description>
+			salario: 3.1 casamentos: 27 matriculas: 899
+		</description>
+		<Point>
+			<coordinates>-50.746770,-20.032313</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>itupeva</name>
+		<description>
+			salario: 3.9 casamentos: 349 matriculas: 10900
+		</description>
+		<Point>
+			<coordinates>-47.071151,-23.146452</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>jundiaí</name>
+		<description>
+			salario: 3.6 casamentos: 2717 matriculas: 74504
+		</description>
+		<Point>
+			<coordinates>-46.907661,-23.201605</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>guapiaçu</name>
+		<description>
+			salario: 2.8 casamentos: 96 matriculas: 3220
+		</description>
+		<Point>
+			<coordinates>-49.188989,-20.723386</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>são sebastião da grama</name>
+		<description>
+			salario: 2.0 casamentos: 46 matriculas: 2335
+		</description>
+		<Point>
+			<coordinates>-46.751392,-21.749753</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>sales oliveira</name>
+		<description>
+			salario: 2.5 casamentos: 72 matriculas: 1850
+		</description>
+		<Point>
+			<coordinates>-47.851871,-20.825142</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>brejo alegre</name>
+		<description>
+			salario: 3.2 casamentos: 27 matriculas: 614
+		</description>
+		<Point>
+			<coordinates>-50.207027,-21.184450</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>tanabi</name>
+		<description>
+			salario: 2.4 casamentos: 149 matriculas: 4037
+		</description>
+		<Point>
+			<coordinates>-49.680770,-20.518654</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>palestina</name>
+		<description>
+			salario: 2.9 casamentos: 61 matriculas: 1828
+		</description>
+		<Point>
+			<coordinates>-49.499530,-20.338115</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>cafelândia</name>
+		<description>
+			salario: 2.0 casamentos: 122 matriculas: 3279
+		</description>
+		<Point>
+			<coordinates>-49.558888,-21.731999</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>charqueada</name>
+		<description>
+			salario: 2.7 casamentos: 73 matriculas: 3072
+		</description>
+		<Point>
+			<coordinates>-47.748106,-22.525700</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>bernardino de campos</name>
+		<description>
+			salario: 1.9 casamentos: 63 matriculas: 1969
+		</description>
+		<Point>
+			<coordinates>-49.487296,-23.025521</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>oscar bressane</name>
+		<description>
+			salario: 2.1 casamentos: 16 matriculas: 433
+		</description>
+		<Point>
+			<coordinates>-50.250963,-22.294509</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>populina</name>
+		<description>
+			salario: 2.4 casamentos: 20 matriculas: 726
+		</description>
+		<Point>
+			<coordinates>-50.523816,-19.908400</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>bady bassitt</name>
+		<description>
+			salario: 2.7 casamentos: 97 matriculas: 2990
+		</description>
+		<Point>
+			<coordinates>-49.428126,-20.932068</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>angatuba</name>
+		<description>
+			salario: 2.3 casamentos: 148 matriculas: 4644
+		</description>
+		<Point>
+			<coordinates>-48.422979,-23.448478</coordinates>
+		</Point>
+	</Placemark>
+
+    </Folder>
+  </Document>
+</kml>
+
+
